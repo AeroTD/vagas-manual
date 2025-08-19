@@ -2,9 +2,8 @@ site_name: Manuais — Rede Aviação
 site_description: Passo a passo para usar o sistema de vagas de trabalho na aviação.
 site_url: https://gmascia07.github.io/mkdocs-rede-aviacao/
 repo_url: https://github.com/GMascia07/mkdocs-rede-aviacao
-repo_name: GMascia07/mkdocs-rede-aviacao
-# Se seu mkdocs.yml está dentro da pasta "meu-docs", ajuste edit_uri conforme necessário:
-# edit_uri: edit/main/meu-docs/docs/
+repo_name: GitHub
+edit_uri: edit/main/docs/
 
 theme:
   name: material
