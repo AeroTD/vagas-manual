@@ -1,0 +1,72 @@
+site_name: Manuais — Rede Aviação
+site_description: Passo a passo para usar o sistema de vagas de trabalho na aviação.
+site_url: https://gmascia07.github.io/mkdocs-rede-aviacao/
+repo_url: https://github.com/GMascia07/mkdocs-rede-aviacao
+repo_name: GMascia07/mkdocs-rede-aviacao
+# Se seu mkdocs.yml está dentro da pasta "meu-docs", ajuste edit_uri conforme necessário:
+# edit_uri: edit/main/meu-docs/docs/
+
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - content.code.copy
+    - content.tabs.link
+    - search.suggest
+    - search.highlight
+  palette:
+    - scheme: default
+      primary: blue
+      accent: blue
+  favicon: imagens/favicon.png
+  logo: imagens/rede_aviacao_logo.png
+
+nav:
+  - Início: index.md
+  - Guia rápido: geral/guia-rapido.md
+  - Autenticação:
+      - Login: geral/login.md
+      - Registro: geral/registro.md
+      - Recuperar senha: geral/recuperar-senha.md
+      - Verificar e-mail: geral/verificar-email.md
+  - Para Recrutadores:
+      - Criar uma vaga: recrutador/criar-vaga.md
+  - Para Candidatos:
+      - Cadastrar currículo: candidato/cadastrar-curriculo.md
+  - Para Empresas:
+      - Dashboard da empresa: empresa/dashboard.md
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+      fallback_to_build_date: true
+      locale: pt_BR
+      enable_git_follow: false
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.emoji
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.snippets
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/GMascia07/mkdocs-rede-aviacao
+
+extra_css:
+  - stylesheets/extra.css
