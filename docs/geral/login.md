@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo
 
-Ensinar como acessar o sistema da Rede Aviação. teste
+Ensinar como acessar o sistema da Rede Aviação.
 
 ---
 
