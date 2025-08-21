@@ -1,0 +1,78 @@
+/* Cor padrão personalizada */
+:root {
+  --md-primary-fg-color: hsl(204, 81%, 42%); /* cor principal */
+  --md-accent-fg-color: hsl(204, 81%, 42%); /* cor de destaque */
+}
+
+/* Ajuste de espaçamentos globais */
+.md-content {
+  padding: 2rem; /* aumenta o espaçamento interno */
+}
+
+/* Bordas arredondadas em cards/caixas */
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 12px;
+  padding: 1rem;
+  border: 1px solid #ddd;
+}
+
+/* Ajustar botões */
+.md-button {
+  border-radius: 8px;
+  padding: 0.6rem 1.2rem;
+}
+
+.md-logo {
+  background-color: #f9f9f9;
+  border-radius: 8px;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  padding-top: 0;
+}
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 26px;
+  max-height: 26px;
+}
+
+/* Logo no header (desktop) */
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 40px; /* maior em telas grandes */
+  max-height: 40px;
+  width: auto;
+}
+
+/* Logo no sidebar */
+.md-nav__title .md-logo img {
+  max-height: 60px;
+  width: auto;
+}
+
+/* Centralizar no sidebar */
+.md-nav__title .md-logo {
+  display: flex;
+  justify-content: center;
+  padding: 1rem 0;
+}
+
+/* Responsividade: telas menores que 768px */
+@media (max-width: 768px) {
+  .md-header__button.md-logo img,
+  .md-header__button.md-logo svg {
+    height: 28px; /* menor para caber no mobile */
+    max-height: 28px;
+  }
+
+  .md-nav__title .md-logo img {
+    max-height: 40px; /* também reduz no sidebar */
+  }
+}
+
+.md-footer-meta__inner {
+  display: none !important;
+}
