@@ -2,38 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://aerotd.github.io/vagas-manual/</loc>
-         <lastmod>2025-08-21</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
-         <loc>https://aerotd.github.io/vagas-manual/candidato/cadastrar-curriculo/</loc>
-         <lastmod>2025-08-21</lastmod>
+         <loc>https://aerotd.github.io/vagas-manual/candidato/curriculo/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://aerotd.github.io/vagas-manual/empresa/convite-colaborador/</loc>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://aerotd.github.io/vagas-manual/empresa/dashboard/</loc>
-         <lastmod>2025-08-21</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
-         <loc>https://aerotd.github.io/vagas-manual/geral/guia-rapido/</loc>
-         <lastmod>2025-08-21</lastmod>
+         <loc>https://aerotd.github.io/vagas-manual/empresa/editar-pagina-empresa/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
+         <loc>https://aerotd.github.io/vagas-manual/empresa/editar-vagas/</loc>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://aerotd.github.io/vagas-manual/geral/login/</loc>
-         <lastmod>2025-08-21</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://aerotd.github.io/vagas-manual/geral/recuperar-senha/</loc>
-         <lastmod>2025-08-21</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://aerotd.github.io/vagas-manual/geral/registro/</loc>
-         <lastmod>2025-08-21</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
-         <loc>https://aerotd.github.io/vagas-manual/geral/verificar-senha/</loc>
-         <lastmod>2025-08-21</lastmod>
+         <loc>https://aerotd.github.io/vagas-manual/geral/verificar-email/</loc>
+         <lastmod>2025-08-29</lastmod>
     </url>
     <url>
          <loc>https://aerotd.github.io/vagas-manual/recrutador/criar-vaga/</loc>
-         <lastmod>2025-08-21</lastmod>
+         <lastmod>2025-08-29</lastmod>
     </url>
 </urlset>
