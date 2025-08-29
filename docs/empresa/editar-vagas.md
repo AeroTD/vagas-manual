@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo
 
-Editar/alterar alguma informação da vaga aberta.
+Editar alguma informação da vaga aberta.
 
 ---
 
@@ -27,11 +27,6 @@ Editar/alterar alguma informação da vaga aberta.
 ---
 
 ## 🛠️ Solução de problemas
-
-#### Editei errado a vaga e não quero confirmar as alterações
-
-- Clicar no botão **Cancelar Alterações** para remover todas as alterações que foram feitas sem terem sidos salvas.
-
 
 #### Não consigo encontrar a opção de editar
 

@@ -1,4 +1,4 @@
-# ✔️ Edição de Página da 
+# ✔️ Edição de Página da Empresa
 
 ## 🎯 Objetivo
 
@@ -16,13 +16,13 @@ Editar/alterar alguma informação da vaga aberta.
 
 ## 📝 Passo a passo
 
-1. Acesse a opção Editar Página da Empresa.
+1. Acesse a opção `Editar Página da Empresa`.
 
 2. Escolha o campo/informação que deseja alterar.
 
 3. Realize as edições necessárias.
 
-4. Clique em Salvar para confirmar e aplicar as alterações.
+4. Clique em **Salvar** para confirmar e aplicar as alterações.
 
 ---
 

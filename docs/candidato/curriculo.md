@@ -1,7 +1,5 @@
 # ✔️ Cadastro de currículo
 
----
-
 ## 🎯 Objetivo
 
 Cadastrar currículo para poder se candidatar às vagas.
@@ -12,7 +10,7 @@ Cadastrar currículo para poder se candidatar às vagas.
 
 - Ter uma **conta criada** no sistema (via cadastro ou convite de empresa).
 - Estar logado com um perfil de candidato.
-- URL de vagas abertas: [www.redeaviacao.com.br/dashboard/curriculo](https://www.redeaviacao.com.br/dashboard/curriculo)
+- Caminho da página currículo: `dashboard/curriculo`
 
 ---
 
@@ -22,7 +20,7 @@ Cadastrar currículo para poder se candidatar às vagas.
 
 2. Clicar em **Meu currículo**.
 
-3. Preencha os campos solicitados (dados pessoais, formação, experiências, habilidades etc.).
+3. Preencha os campos solicitados (dados pessoais, formação acadêmica, experiências profissionais, cursos e certificações, idiomas e extras).
 
 4. Clique em Salvar para finalizar o cadastro
 

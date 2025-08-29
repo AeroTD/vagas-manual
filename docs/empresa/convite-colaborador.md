@@ -1,7 +1,5 @@
 # ✔️ Convidar Colaborador
 
----
-
 ## 🎯 Objetivo
 
 Convidar um colaborador para exercer uma outra função na empresa.
@@ -12,7 +10,9 @@ Convidar um colaborador para exercer uma outra função na empresa.
 
 - Ter uma **conta criada** no sistema (via cadastro).
 - Estar logado com um perfil empresarial.
+- Ter permissões de convite.
 - URL de vagas abertas: [www.redeaviacao.com.br/empresa/convites](https://www.redeaviacao.com.br/empresa/convites)
+
 
 ---
 

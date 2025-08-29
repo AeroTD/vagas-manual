@@ -22,11 +22,12 @@ Ensinar como criar uma conta no sistema da **Rede Aviação** para acessar as fu
 2. **Preencher os campos obrigatórios**
 
    - Nome completo
+   - CPF válido
+   - Data de Nascimento
+   - Telefone
    - E-mail válido
    - Senha (mínimo 8 caracteres)
    - Confirmação de senha
-
-   ![Tela de registro](../imagens/tela_registro.png)
 
 3. **Enviar formulário**
 
@@ -42,11 +43,13 @@ Ensinar como criar uma conta no sistema da **Rede Aviação** para acessar as fu
 
 ## 🛠️ Solução de problemas
 
-??? faq "Já existe uma conta com este e-mail"
-Use a opção **Recuperar senha** ou cadastre outro e-mail.
+#### Já existe uma conta com este e-mail
 
-??? faq "Não recebi o e-mail de confirmação" - Verifique **Spam/Lixo eletrônico**.  
- - Clique em **Reenviar e-mail de verificação** na tela do sistema.
+- Use a opção [Recuperar senha](https://www.redeaviacao.com.br/forgot-password) ou cadastre outro e-mail.
+
+#### Não recebi o e-mail de confirmação 
+- Verifique **Spam/Lixo eletrônico**.  
+- Clique em **Reenviar e-mail de verificação** na tela do sistema.
 
 ---
 

@@ -1,7 +1,5 @@
 # ✔️ Cadastro de vagas
 
----
-
 ## 🎯 Objetivo
 
 Cadastrar vagas para poder buscar um colaborador novo.
@@ -22,6 +20,7 @@ Cadastrar vagas para poder buscar um colaborador novo.
 
 2. Clicar em **Criar nova vaga**.
 
+- Selecionar template de vaga.
 - Preencher os detalhes da vaga e clicar em **Salvar**.
 - Preencher como será feita a avaliação dos candidatos.
 - Definir quem irá avaliar os candidatos.

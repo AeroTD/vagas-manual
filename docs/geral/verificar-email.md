@@ -32,16 +32,16 @@ Confirmar o endereço de e-mail cadastrado no sistema da **Rede Aviação**, gar
 4. **Entrar no sistema**
    - Após a confirmação, faça login normalmente.
 
-![Tela verificar e-mail](../imagens/tela_verificar_email.png)
-
 ---
 
 ## 🛠️ Solução de problemas
 
-??? faq "Não recebi o e-mail de verificação" - Confira **Spam/Lixo eletrônico**.  
- - Clique em **Reenviar e-mail de verificação** na tela do sistema.
+#### Não recebi o e-mail de verificação
+- Confira **Spam/Lixo eletrônico**.  
+- Clique em **Reenviar e-mail de verificação** na tela do sistema.
 
-??? faq "Link expirou" - Volte ao sistema e solicite um novo e-mail de verificação.
+#### Link expirou 
+- Volte ao sistema e solicite um novo e-mail de verificação.
 
 ---
 
