@@ -16,11 +16,17 @@ Cadastrar currículo para poder se candidatar às vagas.
 
 ## 📝 Passo a passo
 
-1. Clicar no **Perfil** localizado no canto superior a direita.
+1. Clicar no **``Perfil``** localizado no canto superior a direita.
 
-2. Clicar em **Meu currículo**.
+2. Clicar em **``Meu currículo``**.
 
-3. Preencha os campos solicitados (dados pessoais, formação acadêmica, experiências profissionais, cursos e certificações, idiomas e extras).
+3. Preencha os campos solicitados 
+
+- Em ``Dados pessoais``, insira todas as suas informações pessoais atualizadas para facilitar na busca de vagas.
+- Em ``Formação acadêmica``, mantenha as informações sempre atualizadas para aumentar a relevância do seu perfil.   
+- Em ``Experiências profissionais`` informe todas as suas experiências na área, ou pelo menos, as últimas experiências. _Essas informações podem ser decisivas no processo seletivo._ 
+- Em ``Cursos e Certificações`` dê preferência em colocar os cursos relevantes da área desejada. 
+- Em ``Idiomas`` informe o(s) idioma(s) que você fala sempre colocando o nível de domínio. _Algumas entrevistas poderão acontecer com base no seu nível de domínio._
 
 4. Clique em Salvar para finalizar o cadastro
 
