@@ -16,28 +16,22 @@ Ensinar como criar uma conta no sistema da **Rede Aviação** para acessar as fu
 ## 📝 Passo a passo
 
 1. **Abrir a tela de registro**
-
-   - Clique em **Registrar** no menu superior ou vá direto para `/register`.
-
+      - Clique em **Registrar** no menu superior ou vá direto para `/register`.
 2. **Preencher os campos obrigatórios**
-
-   - Nome completo
-   - CPF válido
-   - Data de Nascimento
-   - Telefone
-   - E-mail válido
-   - Senha (mínimo 8 caracteres)
-   - Confirmação de senha
-
+      - Nome completo
+      - CPF válido
+      - Data de Nascimento
+      - Telefone
+      - E-mail válido
+      - Senha (mínimo 8 caracteres)
+      - Confirmação de senha
 3. **Enviar formulário**
-
-   - Clique em **Registrar**.
-   - Você será redirecionado para a tela de **verificação de e-mail**.
-
+      - Clique em **Registrar**.
+      - Você será redirecionado para a tela de **verificação de e-mail**.
 4. **Confirmar e-mail (se exigido)**
-   - Abra a caixa de entrada do e-mail cadastrado.
-   - Clique no link **Confirmar endereço de e-mail**.
-   - Volte ao sistema e faça login normalmente.
+      - Abra a caixa de entrada do e-mail cadastrado.
+      - Clique no link **Confirmar endereço de e-mail**.
+      - Volte ao sistema e faça login normalmente.
 
 ---
 
