@@ -16,28 +16,18 @@ Redefinir sua senha caso tenha esquecido, utilizando o fluxo padrão de autentic
 ## 📝 Passo a passo
 
 1. **Abrir a tela de recuperação**
-
-   - Clique em **Esqueceu sua senha?** na tela de login ou vá direto para [recuperação de senha](https://www.redeaviacao.com.br/forgot-password).
-
+      - Clique em **Esqueceu sua senha?** na tela de login ou vá direto para [recuperação de senha](https://www.redeaviacao.com.br/forgot-password).
 2. **Informar e-mail cadastrado**
-
-   - Digite seu e-mail e clique em **Enviar link de redefinição**.
-   - O sistema exibirá a mensagem de que um link foi enviado.
-
+      - Digite seu e-mail e clique em **Enviar link de redefinição**.
+      - O sistema exibirá a mensagem de que um link foi enviado.
 3. **Acessar e-mail de redefinição**
-
-   - Verifique a caixa de entrada (ou Spam).
-   - Clique no botão/link recebido.
-
+      - Verifique a caixa de entrada (ou Spam).
+      - Clique no botão/link recebido.
 4. **Definir nova senha**
-
-   - Digite a nova senha e confirme.
-   - Clique em **Salvar**.
-
+      - Digite a nova senha e confirme.
+      - Clique em **Salvar**.
 5. **Entrar novamente**
-   - Após redefinir, volte à tela de login e acesse com a nova senha.
-
-
+      - Após redefinir, volte à tela de login e acesse com a nova senha.
 
 ## 🛠️ Solução de problemas
 
