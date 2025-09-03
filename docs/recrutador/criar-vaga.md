@@ -17,17 +17,14 @@ Cadastrar vagas para poder buscar um colaborador novo.
 ## 📝 Passo a passo
 
 1. Clicar no **Gestão de Vagas** localizado no menu suspenso à esquerda.
-
 2. Clicar em **Criar nova vaga**.
-
-- Selecionar template de vaga.
-- Preencher os detalhes da vaga e clicar em **Salvar**.
-- Preencher como será feita a avaliação dos candidatos.
-- Definir quem irá avaliar os candidatos.
-- Caso deseja colocar mais de uma pessoa para avaliar, ir na aba **Recrutadores** e adicionar os colaboradores.
-- Por fim, definir em qual meio será divulgado a vaga.
- 
-3. Caso queira editar a vaga, acesse o menu 
+    - Selecionar template de vaga.
+    - Preencher os detalhes da vaga e clicar em **Salvar**.
+    - Preencher como será feita a avaliação dos candidatos.
+    - Definir quem irá avaliar os candidatos.
+    - Caso deseja colocar mais de uma pessoa para avaliar, ir na aba **Recrutadores** e adicionar os colaboradores.
+    - Por fim, definir em qual meio será divulgado a vaga.
+ 3. Caso queira editar a vaga, acesse o ``menu``. 
 
 ---
 
