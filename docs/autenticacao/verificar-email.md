@@ -16,21 +16,15 @@ Confirmar o endereço de e-mail cadastrado no sistema da **Rede Aviação**, gar
 ## 📝 Passo a passo
 
 1. **Registrar-se no sistema**
-
-   - Ao concluir o cadastro, o sistema exibirá um aviso para **verificação de e-mail**.
-
+      - Ao concluir o cadastro, o sistema exibirá um aviso para **verificação de e-mail**.
 2. **Receber e-mail de verificação**
-
-   - Verifique sua caixa de entrada (ou Spam).
-   - O e-mail terá o assunto **"Verifique seu endereço de e-mail"**.
-
+      - Verifique sua caixa de entrada (ou Spam).
+      - O e-mail terá o assunto **"Verifique seu endereço de e-mail"**.
 3. **Clicar no botão de confirmação**
-
-   - Clique em **Confirmar e-mail**.
-   - Você será redirecionado para o sistema.
-
+      - Clique em **Confirmar e-mail**.
+      - Você será redirecionado para o sistema.
 4. **Entrar no sistema**
-   - Após a confirmação, faça login normalmente.
+      - Após a confirmação, faça login normalmente.
 
 ---
 
