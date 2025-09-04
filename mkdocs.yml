@@ -29,17 +29,17 @@ nav:
   - Autenticação:
       - Login: autenticacao/login.md
       - Registro: autenticacao/registro.md
-      - Recuperar senha: autenticacao/recuperar-senha.md
-      - Verificar e-mail: autenticacao/verificar-email.md
+      - Recuperar Senha: autenticacao/recuperar-senha.md
+      - Verificar E-mail: autenticacao/verificar-email.md
   - Para Candidatos:
-      - Cadastrar currículo: candidato/curriculo.md
-      - Candidatar-se a uma vaga: candidato/candidatar-vagas.md
+      - Cadastrar Currículo: candidato/curriculo.md
+      - Candidatar-se a uma Vaga: candidato/candidatar-vagas.md
   - Para Empresas:
-      - Dashboard da empresa: empresa/dashboard.md
+      - Dashboard da Empresa: empresa/dashboard.md
       - Criação de Vagas: empresa/criar-vaga.md
       - Editar Vagas: empresa/editar-vagas.md
-      - Editar pagina da empresa: empresa/editar-pagina-empresa.md
-      - Convite colaborador: empresa/convite-colaborador.md
+      - Editar Página da Empresa: empresa/editar-pagina-empresa.md
+      - Convite Colaborador: empresa/convite-colaborador.md
 
 plugins:
   - search
