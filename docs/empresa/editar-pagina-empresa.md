@@ -1,67 +1,65 @@
-# ✔️ Edição de Página da Empresa
+# ✔️ Edição da Página da Empresa
 
 ## 🎯 Objetivo
 
-Editar ou alterar informações da vaga aberta.
+Editar informações da página da empresa, incluindo dados de identidade, redes sociais e branding, garantindo que os candidatos visualizem informações atualizadas e consistentes.
 
 ---
 
 ## ✅ Pré-requisitos
 
-- Ter uma **conta criada** no sistema (via cadastro ou convite de empresa)
-- Estar logado com um perfil de empresa
-- URL de vagas abertas: [https://www.redeaviacao.com.br/empresa/pagina/criar](https://www.redeaviacao.com.br/empresa/pagina/criar)
+- Ter uma **conta criada** no sistema (via cadastro ou convite de empresa).
+- Estar logado com **perfil de empresa**.
+- URL de edição da página: [https://www.redeaviacao.com.br/empresa/pagina/criar](https://www.redeaviacao.com.br/empresa/pagina/criar)
 
 ---
 
 ## 📝 Passo a passo
 
-1. Clicar em **`Gestão de Vagas`** no menu suspenso à esquerda.
-2. Selecionar a vaga que deseja editar, clicar em **`...`** e selecionar a opção **`Editar Vaga`**.
-3. Realizar as edições necessárias.
-4. Clicar em **`Atualizar e Continuar`** para confirmar e aplicar as alterações.
+1. Acesse o menu e clique em **`Página da Empresa`**.
+2. Em **Identidade pública**, preencha:
+    - **URL personalizada:** insira um identificador único para sua empresa (ex.: `redeaviacao.com.br/empresas/demonstracao`)
+    - **Website:** endereço oficial da empresa (ex.: `https://www.exemplo.com`)
+    - **Descrição da empresa:** resumo claro e objetivo (máx. 1000 caracteres)
+3. Em **Redes sociais**, preencha os campos correspondentes:
+    - **LinkedIn:** link do perfil da empresa
+    - **Instagram:** link do perfil da empresa
+    - **Facebook:** link do perfil da empresa
+4. Em **Branding**, adicione imagens:
+    - **Logo da empresa:** PNG/JPG/JPEG; fundo transparente recomendado; dimensões mínimas 100x100 px, máximas 3000x3000 px; máximo 4MB
+    - **Banner da empresa:** PNG/JPG/JPEG; horizontal; dimensões mínimas 1200x300 px, máximas 6000x3000 px; máximo 10MB
+5. Clique em **`Salvar`** para aplicar as alterações.
+6. Utilize a opção **`Ver página pública`** para visualizar como a página ficará para os candidatos.
 
 ---
 
 ## 🛠️ Solução de problemas
 
-### Editei errado a vaga e não quero confirmar as alterações
+- **Alterações não aparecem após salvar**
+  - Atualize a página (CTRL + F5)
+  - Saia e entre novamente no sistema
+  - Limpe o cache do navegador, se necessário
 
-- Clicar no botão **Cancelar Alterações** para remover todas as alterações que ainda não foram salvas.
+- **Erro ao adicionar logo ou banner**
+  - Verifique formato, tamanho e dimensões do arquivo
+  - Utilize PNG com fundo transparente para logos
 
-### Não consigo encontrar a opção de editar
+- **Links de redes sociais não funcionam**
+  - Confirme que os links estão corretos e completos (ex.: `https://linkedin.com/company/nome-da-empresa`)
+  - Inclua o prefixo `https://` em todos os links
 
-- Verifique se está logado com perfil de empresa.
-- Apenas vagas já criadas podem ser editadas.
-- Caso a vaga tenha sido arquivada ou removida, ela não aparecerá na lista.
-
-### Alterações não aparecem após salvar
-
-- Atualize a página (CTRL + F5)
-- Saia e entre novamente no sistema
-- Limpe o cache do navegador se necessário
-- Confirme se você clicou em **`Atualizar e Continuar`** e não apenas em salvar parcialmente
-
-### Problemas com campos obrigatórios
-
-- Certifique-se de que todos os campos obrigatórios (como título, código e localização) estão preenchidos corretamente antes de salvar.
-- Erros de formatação, como códigos de vaga incorretos, podem impedir a atualização.
-
-### Edição de vagas PCD ou remotas
-
-- Para vagas PCD, verifique se todos os campos de acessibilidade estão preenchidos corretamente.
-- Para vagas remotas, confirme se o tipo de trabalho está selecionado corretamente, pois isso impacta na exibição da vaga para candidatos.
+- **Não consigo editar**
+  - Verifique se está logado com perfil de empresa
+  - Apenas páginas existentes podem ser editadas; novas páginas devem ser criadas primeiro
 
 ---
 
 ## 👀 Dicas
 
-- Mantenha sempre os dados da empresa atualizados para transmitir mais credibilidade aos candidatos.
-- Utilize títulos e descrições claros, objetivos e atrativos.
-- Revise as informações de contato da empresa para evitar perda de oportunidades.
-- Adicione benefícios, diferenciais e informações sobre cultura da empresa para tornar a vaga mais interessante.
-- Ao fazer múltiplas alterações, revise cada seção antes de confirmar para evitar erros ou informações incompletas.
-- Se possível, utilize padrões consistentes de títulos e formatação para manter profissionalismo em todas as vagas.
-- Utilize palavras-chave relevantes em títulos e descrições para facilitar que candidatos encontrem a vaga.
-- Caso haja múltiplas vagas semelhantes, crie um padrão de código ou nomenclatura para facilitar a gestão.
-- Sempre documente alterações significativas feitas nas vagas, especialmente se impactarem o processo seletivo.
+- Use **descrições claras e objetivas** para melhorar a credibilidade da empresa
+- Inclua **benefícios e diferenciais** no texto de apresentação
+- Mantenha os **links de redes sociais atualizados**
+- Utilize **imagens de alta qualidade** para logo e banner
+- Revise todas as informações antes de salvar
+- Adote um padrão visual consistente entre logo e banner
+- Sempre visualize a página pública após alterações
