@@ -31,13 +31,12 @@ nav:
       - Registro: autenticacao/registro.md
       - Recuperar senha: autenticacao/recuperar-senha.md
       - Verificar e-mail: autenticacao/verificar-email.md
-  - Para Recrutadores:
-      - Criar uma vaga: recrutador/criar-vaga.md
   - Para Candidatos:
       - Cadastrar currículo: candidato/curriculo.md
       - Candidatar-se a uma vaga: candidato/candidatar-vagas.md
   - Para Empresas:
       - Dashboard da empresa: empresa/dashboard.md
+      - Criação de Vagas: empresa/criar-vaga.md
       - Editar Vagas: empresa/editar-vagas.md
       - Editar pagina da empresa: empresa/editar-pagina-empresa.md
       - Convite colaborador: empresa/convite-colaborador.md
