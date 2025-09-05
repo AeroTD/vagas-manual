@@ -82,27 +82,27 @@ Cadastrar vagas para buscar novos colaboradores.
 
 ## 🛠️ Solução de problemas
 
-- **Coloquei uma informação errada na vaga**
+#### Coloquei uma informação errada na vaga
   - Você pode editar a vaga clicando em **`Gestão de Vagas`**
   - Selecione a vaga que deseja editar, clique na caixa com `...` e clique em **`Editar Vaga`**
 
-- **Erro ao cadastrar vaga**
+#### Erro ao cadastrar vaga
   - Verifique se todos os campos obrigatórios foram preenchidos antes de salvar
   - Certifique-se de que o código da vaga está no formato correto (ex.: PIL-2025-001)
 
-- **Perguntas ou requisitos não salvos**
+#### Perguntas ou requisitos não salvos
   - Confirme que clicou em **`Salvar Pergunta`** ou **`Salvar Requisitos`** antes de avançar
   - Atualize a página caso o sistema não reflita as alterações imediatamente
 
-- **Recrutador não aparece na lista**
+#### Recrutador não aparece na lista
   - Verifique se o colaborador selecionado possui perfil de recrutador
   - Refaça a seleção e clique em **`Adicionar`**
 
-- **Problemas com localização da vaga**
+#### Problemas com localização da vaga
   - Confirme se o CEP está correto
   - Caso seja uma vaga remota, marque corretamente a opção de trabalho remoto
 
-- **Etapas do processo seletivo faltando ou incorretas**
+#### Etapas do processo seletivo faltando ou incorretas
   - Edite a vaga e revise a **Definição de Etapas**
   - Adicione etapas personalizadas se necessário, respeitando a ordem lógica do processo
 

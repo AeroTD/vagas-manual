@@ -25,29 +25,29 @@ Editar alguma informação da vaga aberta.
 
 ## 🛠️ Solução de problemas
 
-### Editei errado a vaga e não quero confirmar as alterações
+#### Editei errado a vaga e não quero confirmar as alterações
 
 - Clicar no botão **Cancelar Alterações** para remover todas as alterações que ainda não foram salvas.
 
-### Não consigo encontrar a opção de editar
+#### Não consigo encontrar a opção de editar
 
 - Verifique se está logado com perfil de empresa.
 - Apenas vagas já criadas podem ser editadas.
 - Caso a vaga tenha sido arquivada ou removida, ela não aparecerá na lista.
 
-### Alterações não aparecem após salvar
+#### Alterações não aparecem após salvar
 
 - Atualize a página (CTRL + F5)
 - Saia e entre novamente no sistema
 - Limpe o cache do navegador se necessário
 - Confirme se você clicou em **`Atualizar e Continuar`** e não apenas em salvar parcialmente
 
-### Problemas com campos obrigatórios
+#### Problemas com campos obrigatórios
 
 - Certifique-se de que todos os campos obrigatórios (como título, código e localização) estão preenchidos corretamente antes de salvar.
 - Erros de formatação, como códigos de vaga incorretos, podem impedir a atualização.
 
-### Edição de vagas PCD ou remotas
+#### Edição de vagas PCD ou remotas
 
 - Para vagas PCD, verifique se todos os campos de acessibilidade estão preenchidos corretamente.
 - Para vagas remotas, confirme se o tipo de trabalho está selecionado corretamente, pois isso impacta na exibição da vaga para candidatos.

@@ -35,20 +35,20 @@ Editar informações da página da empresa, incluindo dados de identidade, redes
 
 ## 🛠️ Solução de problemas
 
-- **Alterações não aparecem após salvar**
+#### Alterações não aparecem após salvar
   - Atualize a página (CTRL + F5)
   - Saia e entre novamente no sistema
   - Limpe o cache do navegador, se necessário
 
-- **Erro ao adicionar logo ou banner**
+#### Erro ao adicionar logo ou banner
   - Verifique formato, tamanho e dimensões do arquivo
   - Utilize PNG com fundo transparente para logos
 
-- **Links de redes sociais não funcionam**
+#### Links de redes sociais não funcionam
   - Confirme que os links estão corretos e completos (ex.: `https://linkedin.com/company/nome-da-empresa`)
   - Inclua o prefixo `https://` em todos os links
 
-- **Não consigo editar**
+#### Não consigo editar
   - Verifique se está logado com perfil de empresa
   - Apenas páginas existentes podem ser editadas; novas páginas devem ser criadas primeiro
 

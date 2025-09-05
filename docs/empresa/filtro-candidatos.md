@@ -50,16 +50,16 @@ Utilizar filtros avançados para localizar candidatos de acordo com critérios e
 
 ## 🛠️ Solução de problemas
 
-- **Nenhum candidato encontrado**
+#### Nenhum candidato encontrado
   - Revise os critérios aplicados; filtros muito restritivos podem reduzir os resultados.
   - Tente usar operadores mais amplos (ex.: "Contém" ao invés de "Igual a").
   - Combine grupos com a opção **Qualquer Grupo (OU)** para ampliar os resultados.
 
-- **Erro ao aplicar filtros**
+#### Erro ao aplicar filtros
   - Verifique se todos os campos obrigatórios foram preenchidos.
   - Certifique-se de que os valores inseridos correspondem ao tipo do campo (ex.: Idade deve ser um número).
 
-- **Filtros não são aplicados**
+#### Filtros não são aplicados
   - Atualize a página (CTRL + F5).
   - Saia e entre novamente no sistema.
   - Limpe o cache do navegador, se necessário.
