@@ -10,7 +10,7 @@ Utilizar filtros avançados para localizar candidatos de acordo com critérios e
 
 - Ter uma **conta criada** no sistema (via cadastro).
 - Estar logado com um perfil **empresarial**.
-- Acessar o menu lateral e clicar em **`Busca de Candidatos`**.
+- Acessar o menu lateral e clicar em **`Busca de Candidatos`** ou acesse o link [https://redeaviacao.com.br/candidatos](https://redeaviacao.com.br/candidatos).
 
 ---
 
