@@ -1,0 +1,45 @@
+── Python / venv
+.venv/
+venv/
+env/
+ENV/
+pycache/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.egg-info/
+.eggs/
+pip-wheel-metadata/
+pip-log.txt
+.pytest_cache/
+.mypy_cache/
+.coverage
+.tox/
+
+── MkDocs
+site/               # build gerado pelo mkdocs (não versionar)
+.mkd*               # alguns plugins usam .mkdocs-cache/.mkdocs-*
+.mkd*/              # cobre variações de cache
+.cache/             # cache de plugins/tema
+
+── Sistemas / Editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+~
+
+── Front-end (se usar)
+node_modules/
+dist/
+
+── Configs sensíveis (se existirem)
+.env
+.env.
+!.env.example
+
+── Logs
+*.log
