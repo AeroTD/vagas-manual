@@ -1,37 +1,41 @@
-# 🔑 Login no Sistema
+# <i data-lucide="key-round" class="icon-lg"></i> Login no Sistema
 
-## 🎯 Objetivo
+## <i data-lucide="target" class="icon-lg"></i> Objetivo
 
 Ensinar como acessar o sistema da Rede Aviação.
 
 ---
 
-## ✅ Pré-requisitos
+## <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
 
 - Ter uma **conta criada** no sistema (via cadastro ou convite de empresa).
 - Ter confirmado o e-mail (caso exigido).
-- URL de login: [Login](https://redeaviacao.com.br/login).
+- Acesse a tela de [Login](https://redeaviacao.com.br/login).
 
 ---
 
-## 📝 Passo a passo
+## <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
 
 1. **Abrir a tela de login**
 
-- Clique em **`Entrar`** no menu superior ou vá direto para [Login](https://redeaviacao.com.br/login) .
+    - Clique em **`Entrar`** no menu superior ou vá direto para [Login](https://redeaviacao.com.br/login) .
+
+    ![Tela de login](../imagens/Login/Home.png)
 
 2. **Preencher credenciais**
 
-- Informe o **e-mail** cadastrado.
-- Digite a **senha** escolhida no cadastro.
+    - Informe o **e-mail** cadastrado.
+    - Digite a **senha** escolhida no cadastro.
 
-3. Clicar em **`Entrar`**
+    ![Tela de login](../imagens/Login/Login.png)
 
-- Você será redirecionado para o **dashboard inicial** do sistema.
+3. **Clicar em `Entrar`**
+
+    - Você será redirecionado para o **dashboard inicial** do sistema.
 
 ---
 
-## 🛠️ Solução de problemas
+## <i data-lucide="wrench" class="icon-lg"></i> Solução de problemas
 
 #### Erro de credenciais inválidas
 
@@ -51,7 +55,7 @@ Ensinar como acessar o sistema da Rede Aviação.
 
 ---
 
-## 👀 Dicas
+## <i data-lucide="lightbulb" class="icon-lg"></i> Dicas
 
 - Para alternar entre **candidato** e **recrutador**, basta usar a mesma conta se ela tiver permissões.
 - Caso esteja vinculado a mais de uma empresa, escolha a **empresa ativa** no topo após logar.

@@ -73,3 +73,8 @@ extra:
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  # Lucide (CDN)
+  - https://unpkg.com/lucide@latest/dist/umd/lucide.min.js # Script que inicializa os ícones após cada troca de página do Material
+  - javascripts/lucide-init.js
