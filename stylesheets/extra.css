@@ -76,3 +76,84 @@
 .md-footer-meta__inner {
   display: none !important;
 }
+/* ===== Lucide icons (estilo base) ===== */
+.lucide {
+  width: 30px;
+  height: 30px;
+  stroke: currentColor;   /* herda a cor do texto/link */
+  fill: none;
+  stroke-width: 2;
+  vertical-align: -2px;   /* alinha com o texto */
+  margin-right: .35rem;   /* espaço antes do texto */
+  flex: 0 0 auto;
+  color: #137BBF;
+;
+}
+
+/* Ícone dentro de links e itens de lista do conteúdo */
+.md-typeset a .lucide,
+.md-typeset li .lucide {
+  margin-right: .35rem;
+}
+
+ /* Botões do Material */
+.md-button .lucide {
+  width: 20px;
+  height: 20px;
+  vertical-align: -3px;
+  margin-right: .4rem;
+}
+
+/* Títulos com ícone */
+.md-typeset h1 .lucide,
+.md-typeset h2 .lucide,
+.md-typeset h3 .lucide {
+  width: 1.1em;
+  height: 1.1em;
+  vertical-align: -0.1em;
+  margin-right: .4rem;
+}
+
+ /* Admonitions (caixas de info) – título com ícone */
+.md-typeset .admonition > .admonition-title .lucide,
+.md-typeset details > summary .lucide {
+  width: 1.05em;
+  height: 1.05em;
+  margin-right: .4rem;
+}
+
+/* Sidebar/nav (se você usar ícones dentro do conteúdo do nav) */
+.md-nav__link .lucide {
+  width: 16px;
+  height: 16px;
+  vertical-align: -2px;
+  margin-right: .35rem;
+}
+
+/* Hover/focus: mantém contraste com a cor primária do tema */
+.md-typeset a:hover .lucide,
+.md-button:hover .lucide {
+  stroke: currentColor;
+}
+
+/* Variantes de tamanho */
+
+.icon-sm {
+  width: 1rem; /* 16px */
+  height: 1rem;
+}
+
+.icon-md {
+  width: 1.3rem; /* 24px */
+  height: 1.3rem;
+}
+
+.icon-lg {
+  width: 2rem; /* 32px */
+  height: 2rem;
+}
+
+.icon-exlg{
+    width: 3rem;
+    height: 3rem;
+}
