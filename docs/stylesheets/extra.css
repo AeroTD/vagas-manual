@@ -2,6 +2,8 @@
 :root {
   --md-primary-fg-color: hsl(204, 81%, 42%); /* cor principal */
   --md-accent-fg-color: hsl(204, 81%, 42%); /* cor de destaque */
+  --md-text-font: "Inter", sans-serif; /* fonte personalizada */
+  --md-code-font: "JetBrains Mono", monospace; /* fonte para código */
 }
 
 /* Ajuste de espaçamentos globais */
