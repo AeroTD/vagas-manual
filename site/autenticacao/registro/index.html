@@ -10,13 +10,13 @@
       
       
       
-        <link rel="canonical" href="https://aerotd.github.io/vagas-manual/empresa/editar-vagas/">
+        <link rel="canonical" href="https://aerotd.github.io/vagas-manual/autenticacao/registro/">
       
       
-        <link rel="prev" href="../criar-vaga/">
+        <link rel="prev" href="../login/">
       
       
-        <link rel="next" href="../filtro-candidatos/">
+        <link rel="next" href="../recuperar-senha/">
       
       
       <link rel="icon" href="../../imagens/favicon.png">
@@ -24,7 +24,7 @@
     
     
       
-        <title>Editar Vagas - Manuais — Rede Aviação</title>
+        <title>Registro - Manuais — Rede Aviação</title>
       
     
     
@@ -78,7 +78,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#edicao-de-vagas" class="md-skip">
+        <a href="#registro-de-usuario" class="md-skip">
           Pular para conteúdo
         </a>
       
@@ -111,7 +111,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Editar Vagas
+              Registro
             
           </span>
         </div>
@@ -227,11 +227,13 @@
   
   
   
+    
+  
   
     
     
-      <li class="md-tabs__item">
-        <a href="../../autenticacao/login/" class="md-tabs__link">
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../login/" class="md-tabs__link">
           
   
   
@@ -271,13 +273,11 @@
   
   
   
-    
-  
   
     
     
-      <li class="md-tabs__item md-tabs__item--active">
-        <a href="../dashboard/" class="md-tabs__link">
+      <li class="md-tabs__item">
+        <a href="../../empresa/dashboard/" class="md-tabs__link">
           
   
   
@@ -361,8 +361,10 @@
       
   
   
+    
   
   
+  
     
     
       
@@ -378,19 +380,22 @@
     
     
       
+        
+        
+      
       
         
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
         
           
-          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
             
   
   
@@ -403,7 +408,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_2">
             <span class="md-nav__icon md-icon"></span>
             Autenticação
@@ -417,7 +422,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../autenticacao/login/" class="md-nav__link">
+      <a href="../login/" class="md-nav__link">
         
   
   
@@ -437,10 +442,32 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../../autenticacao/registro/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Registro
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   
@@ -451,6 +478,95 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#objetivo" class="md-nav__link">
+    <span class="md-ellipsis">
+      🎯 Objetivo
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pre-requisitos" class="md-nav__link">
+    <span class="md-ellipsis">
+      ✅ Pré-requisitos
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#passo-a-passo" class="md-nav__link">
+    <span class="md-ellipsis">
+      📝 Passo a passo
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#solucao-de-problemas" class="md-nav__link">
+    <span class="md-ellipsis">
+      🛠️ Solução de problemas
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🛠️ Solução de problemas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ja-existe-uma-conta-com-este-e-mail" class="md-nav__link">
+    <span class="md-ellipsis">
+      Já existe uma conta com este e-mail
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#nao-recebi-o-e-mail-de-confirmacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Não recebi o e-mail de confirmação
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dicas" class="md-nav__link">
+    <span class="md-ellipsis">
+      👀 Dicas
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -463,7 +579,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../autenticacao/recuperar-senha/" class="md-nav__link">
+      <a href="../recuperar-senha/" class="md-nav__link">
         
   
   
@@ -486,7 +602,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../autenticacao/verificar-email/" class="md-nav__link">
+      <a href="../verificar-email/" class="md-nav__link">
         
   
   
@@ -615,10 +731,8 @@
       
   
   
-    
   
   
-  
     
     
       
@@ -638,22 +752,19 @@
     
     
       
-        
-        
-      
       
         
       
     
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
         
           
-          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
             
   
   
@@ -666,7 +777,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_4">
             <span class="md-nav__icon md-icon"></span>
             Para Empresas
@@ -680,7 +791,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../dashboard/" class="md-nav__link">
+      <a href="../../empresa/dashboard/" class="md-nav__link">
         
   
   
@@ -703,7 +814,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../criar-vaga/" class="md-nav__link">
+      <a href="../../empresa/criar-vaga/" class="md-nav__link">
         
   
   
@@ -723,32 +834,10 @@
                 
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          
-  
-  
-  <span class="md-ellipsis">
-    Editar Vagas
-    
-  </span>
-  
-
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../../empresa/editar-vagas/" class="md-nav__link">
         
   
   
@@ -759,122 +848,6 @@
   
 
       </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Índice">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Índice
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#objetivo" class="md-nav__link">
-    <span class="md-ellipsis">
-      🎯 Objetivo
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#pre-requisitos" class="md-nav__link">
-    <span class="md-ellipsis">
-      ✅ Pré-requisitos
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#passo-a-passo" class="md-nav__link">
-    <span class="md-ellipsis">
-      📝 Passo a passo
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#solucao-de-problemas" class="md-nav__link">
-    <span class="md-ellipsis">
-      🛠️ Solução de problemas
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="🛠️ Solução de problemas">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#editei-errado-a-vaga-e-nao-quero-confirmar-as-alteracoes" class="md-nav__link">
-    <span class="md-ellipsis">
-      Editei errado a vaga e não quero confirmar as alterações
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#nao-consigo-encontrar-a-opcao-de-editar" class="md-nav__link">
-    <span class="md-ellipsis">
-      Não consigo encontrar a opção de editar
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#alteracoes-nao-aparecem-apos-salvar" class="md-nav__link">
-    <span class="md-ellipsis">
-      Alterações não aparecem após salvar
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#problemas-com-campos-obrigatorios" class="md-nav__link">
-    <span class="md-ellipsis">
-      Problemas com campos obrigatórios
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#edicao-de-vagas-pcd-ou-remotas" class="md-nav__link">
-    <span class="md-ellipsis">
-      Edição de vagas PCD ou remotas
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#dicas" class="md-nav__link">
-    <span class="md-ellipsis">
-      👀 Dicas
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-      
     </li>
   
 
@@ -887,7 +860,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../filtro-candidatos/" class="md-nav__link">
+      <a href="../../empresa/filtro-candidatos/" class="md-nav__link">
         
   
   
@@ -910,7 +883,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../editar-pagina-empresa/" class="md-nav__link">
+      <a href="../../empresa/editar-pagina-empresa/" class="md-nav__link">
         
   
   
@@ -933,7 +906,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../convite-colaborador/" class="md-nav__link">
+      <a href="../../empresa/convite-colaborador/" class="md-nav__link">
         
   
   
@@ -1020,45 +993,18 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#editei-errado-a-vaga-e-nao-quero-confirmar-as-alteracoes" class="md-nav__link">
+  <a href="#ja-existe-uma-conta-com-este-e-mail" class="md-nav__link">
     <span class="md-ellipsis">
-      Editei errado a vaga e não quero confirmar as alterações
+      Já existe uma conta com este e-mail
     </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#nao-consigo-encontrar-a-opcao-de-editar" class="md-nav__link">
+  <a href="#nao-recebi-o-e-mail-de-confirmacao" class="md-nav__link">
     <span class="md-ellipsis">
-      Não consigo encontrar a opção de editar
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#alteracoes-nao-aparecem-apos-salvar" class="md-nav__link">
-    <span class="md-ellipsis">
-      Alterações não aparecem após salvar
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#problemas-com-campos-obrigatorios" class="md-nav__link">
-    <span class="md-ellipsis">
-      Problemas com campos obrigatórios
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#edicao-de-vagas-pcd-ou-remotas" class="md-nav__link">
-    <span class="md-ellipsis">
-      Edição de vagas PCD ou remotas
+      Não recebi o e-mail de confirmação
     </span>
   </a>
   
@@ -1097,65 +1043,61 @@
   
 
 
-<h1 id="edicao-de-vagas">✔️ Edição de Vagas<a class="headerlink" href="#edicao-de-vagas" title="Permanent link">&para;</a></h1>
+<h1 id="registro-de-usuario">🧾 Registro de Usuário<a class="headerlink" href="#registro-de-usuario" title="Permanent link">&para;</a></h1>
 <h2 id="objetivo">🎯 Objetivo<a class="headerlink" href="#objetivo" title="Permanent link">&para;</a></h2>
-<p>Editar alguma informação da vaga aberta.</p>
+<p>Ensinar como criar uma conta no sistema da <strong>Rede Aviação</strong> para acessar as funcionalidades de candidato, recrutador ou empresa (conforme permissões atribuídas).</p>
 <hr />
 <h2 id="pre-requisitos">✅ Pré-requisitos<a class="headerlink" href="#pre-requisitos" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Ter uma <strong>conta criada</strong> no sistema (via cadastro ou convite de empresa).</li>
-<li>Estar logado com um perfil de candidato.</li>
-<li>URL de vagas abertas: <a href="https://www.redeaviacao.com.br/empresa/vagas">https://www.redeaviacao.com.br/empresa/vagas</a></li>
+<li>Acessar a URL de registro: <a href="https://www.redeaviacao.com.br/register">www.redeaviacao.com.br/register</a></li>
+<li>Ter acesso ao e-mail informado (para confirmação).</li>
 </ul>
 <hr />
 <h2 id="passo-a-passo">📝 Passo a passo<a class="headerlink" href="#passo-a-passo" title="Permanent link">&para;</a></h2>
 <ol>
-<li>Clicar em <strong><code>Gestão de Vagas</code></strong> no menu suspenso à esquerda.</li>
-<li>Selecionar a vaga que deseja editar, clicar em <strong><code>...</code></strong> e selecionar a opção <strong><code>Editar Vaga</code></strong>.</li>
-<li>Realizar as edições necessárias.</li>
-<li>Clicar em <strong><code>Atualizar e Continuar</code></strong> para confirmar e aplicar as alterações.</li>
+<li><strong>Abrir a tela de registro</strong><ul>
+<li>Clique em <strong>Registrar</strong> no menu superior ou vá direto para <code>/register</code>.</li>
+</ul>
+</li>
+<li><strong>Preencher os campos obrigatórios</strong><ul>
+<li>Nome completo</li>
+<li>CPF válido</li>
+<li>Data de Nascimento</li>
+<li>Telefone</li>
+<li>E-mail válido</li>
+<li>Senha (mínimo 8 caracteres)</li>
+<li>Confirmação de senha</li>
+</ul>
+</li>
+<li><strong>Enviar formulário</strong><ul>
+<li>Clique em <strong>Registrar</strong>.</li>
+<li>Você será redirecionado para a tela de <strong>verificação de e-mail</strong>.</li>
+</ul>
+</li>
+<li><strong>Confirmar e-mail (se exigido)</strong><ul>
+<li>Abra a caixa de entrada do e-mail cadastrado.</li>
+<li>Clique no link <strong>Confirmar endereço de e-mail</strong>.</li>
+<li>Volte ao sistema e faça login normalmente.</li>
+</ul>
+</li>
 </ol>
 <hr />
 <h2 id="solucao-de-problemas">🛠️ Solução de problemas<a class="headerlink" href="#solucao-de-problemas" title="Permanent link">&para;</a></h2>
-<h4 id="editei-errado-a-vaga-e-nao-quero-confirmar-as-alteracoes">Editei errado a vaga e não quero confirmar as alterações<a class="headerlink" href="#editei-errado-a-vaga-e-nao-quero-confirmar-as-alteracoes" title="Permanent link">&para;</a></h4>
+<h4 id="ja-existe-uma-conta-com-este-e-mail">Já existe uma conta com este e-mail<a class="headerlink" href="#ja-existe-uma-conta-com-este-e-mail" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Clicar no botão <strong>Cancelar Alterações</strong> para remover todas as alterações que ainda não foram salvas.</li>
+<li>Use a opção <a href="https://www.redeaviacao.com.br/forgot-password">Recuperar senha</a> ou cadastre outro e-mail.</li>
 </ul>
-<h4 id="nao-consigo-encontrar-a-opcao-de-editar">Não consigo encontrar a opção de editar<a class="headerlink" href="#nao-consigo-encontrar-a-opcao-de-editar" title="Permanent link">&para;</a></h4>
+<h4 id="nao-recebi-o-e-mail-de-confirmacao">Não recebi o e-mail de confirmação<a class="headerlink" href="#nao-recebi-o-e-mail-de-confirmacao" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Verifique se está logado com perfil de empresa.</li>
-<li>Apenas vagas já criadas podem ser editadas.</li>
-<li>Caso a vaga tenha sido arquivada ou removida, ela não aparecerá na lista.</li>
-</ul>
-<h4 id="alteracoes-nao-aparecem-apos-salvar">Alterações não aparecem após salvar<a class="headerlink" href="#alteracoes-nao-aparecem-apos-salvar" title="Permanent link">&para;</a></h4>
-<ul>
-<li>Atualize a página (CTRL + F5)</li>
-<li>Saia e entre novamente no sistema</li>
-<li>Limpe o cache do navegador se necessário</li>
-<li>Confirme se você clicou em <strong><code>Atualizar e Continuar</code></strong> e não apenas em salvar parcialmente</li>
-</ul>
-<h4 id="problemas-com-campos-obrigatorios">Problemas com campos obrigatórios<a class="headerlink" href="#problemas-com-campos-obrigatorios" title="Permanent link">&para;</a></h4>
-<ul>
-<li>Certifique-se de que todos os campos obrigatórios (como título, código e localização) estão preenchidos corretamente antes de salvar.</li>
-<li>Erros de formatação, como códigos de vaga incorretos, podem impedir a atualização.</li>
-</ul>
-<h4 id="edicao-de-vagas-pcd-ou-remotas">Edição de vagas PCD ou remotas<a class="headerlink" href="#edicao-de-vagas-pcd-ou-remotas" title="Permanent link">&para;</a></h4>
-<ul>
-<li>Para vagas PCD, verifique se todos os campos de acessibilidade estão preenchidos corretamente.</li>
-<li>Para vagas remotas, confirme se o tipo de trabalho está selecionado corretamente, pois isso impacta na exibição da vaga para candidatos.</li>
+<li>Verifique <strong>Spam/Lixo eletrônico</strong>.  </li>
+<li>Clique em <strong>Reenviar e-mail de verificação</strong> na tela do sistema.</li>
 </ul>
 <hr />
 <h2 id="dicas">👀 Dicas<a class="headerlink" href="#dicas" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Mantenha sempre os dados da empresa atualizados para transmitir mais credibilidade aos candidatos.</li>
-<li>Utilize títulos e descrições claros, objetivos e atrativos.</li>
-<li>Revise as informações de contato da empresa para evitar perda de oportunidades.</li>
-<li>Adicione benefícios, diferenciais e informações sobre cultura da empresa para tornar a vaga mais interessante.</li>
-<li>Ao fazer múltiplas alterações, revise cada seção antes de confirmar para evitar erros ou informações incompletas.</li>
-<li>Se possível, utilize padrões consistentes de títulos e formatação para manter profissionalismo em todas as vagas.</li>
-<li>Utilize palavras-chave relevantes em títulos e descrições para facilitar que candidatos encontrem a vaga.</li>
-<li>Caso haja múltiplas vagas semelhantes, crie um padrão de código ou nomenclatura para facilitar a gestão.</li>
-<li>Sempre documente alterações significativas feitas nas vagas, especialmente se impactarem o processo seletivo.</li>
+<li>Se você for <strong>convidado por uma empresa</strong>, use o mesmo e-mail do convite.</li>
+<li>Para alternar entre funções (ex.: candidato e recrutador), o administrador pode atribuir permissões à mesma conta.</li>
+<li>Não é necessário criar contas diferentes para cada função.</li>
 </ul>
 
 
@@ -1179,7 +1121,7 @@
     <span class="md-icon" title="Última atualização">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="5 de setembro de 2025 19:06:00 UTC">5 de setembro de 2025</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="3 de setembro de 2025 13:40:50 UTC">3 de setembro de 2025</span>
   </span>
 
     
@@ -1189,7 +1131,7 @@
     <span class="md-icon" title="Criado em">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="28 de agosto de 2025 17:30:59 UTC">28 de agosto de 2025</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="29 de agosto de 2025 18:13:04 UTC">29 de agosto de 2025</span>
   </span>
 
     

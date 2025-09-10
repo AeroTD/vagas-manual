@@ -10,7 +10,7 @@ Ensinar como acessar o sistema da Rede Aviação.
 
 - Ter uma **conta criada** no sistema (via cadastro ou convite de empresa).
 - Ter confirmado o e-mail (caso exigido).
-- URL de login: [www.redeaviacao.com.br](https://www.redeaviacao.com.br)
+- URL de login: [Login](https://redeaviacao.com.br/login).
 
 ---
 
@@ -18,14 +18,14 @@ Ensinar como acessar o sistema da Rede Aviação.
 
 1. **Abrir a tela de login**
 
-- Clique em **Entrar** no menu superior ou vá direto para `/login`.
+- Clique em **`Entrar`** no menu superior ou vá direto para [Login](https://redeaviacao.com.br/login) .
 
 2. **Preencher credenciais**
 
 - Informe o **e-mail** cadastrado.
 - Digite a **senha** escolhida no cadastro.
 
-3. **Clicar em "Entrar"**
+3. Clicar em **`Entrar`**
 
 - Você será redirecionado para o **dashboard inicial** do sistema.
 
@@ -37,7 +37,7 @@ Ensinar como acessar o sistema da Rede Aviação.
 
 - Confirme se digitou o e-mail corretamente.
 - Senha diferencia maiúsculas/minúsculas.
-- Se esqueceu, use **Recuperar senha**.
+- Se esqueceu, use [Esqueceu a senha](https://redeaviacao.com.br/forgot-password).
 
 #### Não recebi o e-mail de confirmação
 

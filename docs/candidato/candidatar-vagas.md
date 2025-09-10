@@ -31,7 +31,7 @@ Ensinar como se candidatar em uma vaga.
     - Clicar na opção **`Quero me candidatar`**.
     - Caso tenha sido indicado por alguém que trabalha na empresa na qual está se candidatando, selecione a opção e informe o nome completo do colaborador e setor (caso seja solicitado). 
 
-## Acompanhar Candidatura
+#### Acompanhar Candidatura
 
 1. Clique em **`Meu dashboard`** no menu suspenso à esquerda.
 2. Selecionar a caixa [Minhas candidaturas](https://redeaviacao.com.br/dashboard/usu%C3%A1rio/minhas-candidaturas)
