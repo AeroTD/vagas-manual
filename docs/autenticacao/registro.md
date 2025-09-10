@@ -1,23 +1,23 @@
-# 🧾 Registro de Usuário
+# <i data-lucide="user-round-plus" class="icon-lg"></i> Registro de Usuário
 
-## 🎯 Objetivo
+## <i data-lucide="target" class="icon-lg"></i> Objetivo
 
 Ensinar como criar uma conta no sistema da **Rede Aviação** para acessar as funcionalidades de candidato, recrutador ou empresa (conforme permissões atribuídas).
 
 ---
 
-## ✅ Pré-requisitos
+## <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
 
-- Acessar a URL de registro: [www.redeaviacao.com.br/register](https://www.redeaviacao.com.br/register)
+- Acessar a tela de [Registro](https://www.redeaviacao.com.br/register)
 - Ter acesso ao e-mail informado (para confirmação).
 
 ---
 
-## 📝 Passo a passo
+## <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
 
-1. **Abrir a tela de registro**
-      - Clique em **Registrar** no menu superior ou vá direto para `/register`.
-2. **Preencher os campos obrigatórios**
+1. ??? "**Abrir a tela de registro**"
+      - Clique em **Registrar** no menu superior ou vá direto para tela de [Registro](https://redeaviacao.com.br/register).
+2. ??? "**Preencher os campos obrigatórios**"
       - Nome completo
       - CPF válido
       - Data de Nascimento
@@ -25,17 +25,17 @@ Ensinar como criar uma conta no sistema da **Rede Aviação** para acessar as fu
       - E-mail válido
       - Senha (mínimo 8 caracteres)
       - Confirmação de senha
-3. **Enviar formulário**
-      - Clique em **Registrar**.
+3. ??? "**Enviar formulário**"
+      - Clique em **``Registrar``**.
       - Você será redirecionado para a tela de **verificação de e-mail**.
-4. **Confirmar e-mail (se exigido)**
+4. ??? "**Confirmar e-mail (se exigido)**"
       - Abra a caixa de entrada do e-mail cadastrado.
       - Clique no link **Confirmar endereço de e-mail**.
       - Volte ao sistema e faça login normalmente.
 
 ---
 
-## 🛠️ Solução de problemas
+## <i data-lucide="wrench" class="icon-lg"></i> Solução de problemas
 
 #### Já existe uma conta com este e-mail
 
@@ -47,7 +47,7 @@ Ensinar como criar uma conta no sistema da **Rede Aviação** para acessar as fu
 
 ---
 
-## 👀 Dicas
+## <i data-lucide="lightbulb" class="icon-dica"></i> Dicas
 
 - Se você for **convidado por uma empresa**, use o mesmo e-mail do convite.
 - Para alternar entre funções (ex.: candidato e recrutador), o administrador pode atribuir permissões à mesma conta.

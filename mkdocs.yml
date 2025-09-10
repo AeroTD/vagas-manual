@@ -1,8 +1,8 @@
 site_name: Manuais — Rede Aviação
 site_description: Passo a passo para usar o sistema de vagas de trabalho na aviação.
 site_url: https://aerotd.github.io/vagas-manual/
-repo_url: https://github.com/AeroTD/vagas-manual
-repo_name: GitHub
+# repo_url: https://github.com/AeroTD/vagas-manual - ícone github no menu
+# repo_name: GitHub - - ícone github no menu
 edit_uri: edit/main/docs/
 
 theme:

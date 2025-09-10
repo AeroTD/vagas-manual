@@ -1,34 +1,34 @@
-# ✉️ Verificação de E-mail
+# <i data-lucide="mail" class="icon-lg"></i> Verificação de E-mail
 
-## 🎯 Objetivo
+## <i data-lucide="target" class="icon-lg"></i> Objetivo
 
 Confirmar o endereço de e-mail cadastrado no sistema da **Rede Aviação**, garantindo segurança e habilitando o acesso completo.
 
 ---
 
-## ✅ Pré-requisitos
+## <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
 
 - Ter criado uma conta pelo formulário de registro.
 - Ter acesso ao e-mail informado.
 
 ---
 
-## 📝 Passo a passo
+## <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
 
-1. **Registrar-se no sistema**
+1. ??? "**Registrar-se no sistema**"
       - Ao concluir o cadastro, o sistema exibirá um aviso para **verificação de e-mail**.
-2. **Receber e-mail de verificação**
+2. ??? "**Receber e-mail de verificação**"
       - Verifique sua caixa de entrada (ou Spam).
       - O e-mail terá o assunto **"Verifique seu endereço de e-mail"**.
-3. **Clicar no botão de confirmação**
+3. ??? "**Clicar no botão de confirmação**"
       - Clique em **Confirmar e-mail**.
       - Você será redirecionado para o sistema.
-4. **Entrar no sistema**
+4. ??? "**Entrar no sistema**"
       - Após a confirmação, faça login normalmente.
 
 ---
 
-## 🛠️ Solução de problemas
+## <i data-lucide="wrench" class="icon-lg"></i> Solução de problemas
 
 #### Não recebi o e-mail de verificação
 - Confira **Spam/Lixo eletrônico**.  
@@ -39,7 +39,7 @@ Confirmar o endereço de e-mail cadastrado no sistema da **Rede Aviação**, gar
 
 ---
 
-## 👀 Dicas
+## <i data-lucide="lightbulb" class="icon-dica"></i> Dicas
 
 - Faça a confirmação imediatamente após o registro para evitar bloqueios.
 - Se utilizou o e-mail corporativo, verifique com seu provedor se mensagens externas não estão bloqueadas.
