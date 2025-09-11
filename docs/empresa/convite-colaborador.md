@@ -1,38 +1,38 @@
-# ✔️ Convidar Colaborador
+# <i data-lucide="check" class="icon-lg"></i> Convidar Colaborador
 
-## 🎯 Objetivo
+## <i data-lucide="target" class="icon-lg"></i> Objetivo
 
 Convidar um colaborador para exercer uma outra função na empresa.
 
 ---
 
-## ✅ Pré-requisitos
+## <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
 
 - Ter uma **conta criada** no sistema (via cadastro).
 - Estar logado com um perfil empresarial.
 - Ter permissões de convite.
-- URL de vagas abertas: [www.redeaviacao.com.br/empresa/convites](https://www.redeaviacao.com.br/empresa/convites)
+- Acesse a página de [Convites](https://www.redeaviacao.com.br/empresa/convites)
 
 
 ---
 
-## 📝 Passo a passo
+## <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
 
-1. Clicar no **Convites de Colaboradores** localizado no menu suspenso à esquerda.
+1. Clicar no **``Convites de Colaboradores``** localizado no menu suspenso à esquerda.
 
 2. Informar o nome, e-mail e selecionar o grupo no qual deseja convidar o colaborador.
 
-3. Após preencher, clicar em **Enviar convite**.
+3. Após preencher, clicar em **``Enviar convite``**.
 
 ---
 
-## 🛠️ Solução de problemas
+## <i data-lucide="wrench" class="icon-lg"></i> Solução de problemas
 
 #### O e-mail não chegou para o colaborador
 
-- Selecione o colaborador que não recebeu o e-mail, clique em **Ações** e selecione a opção **Reenviar convite**.
+- Selecione o colaborador que não recebeu o e-mail, clique em **``Ações``** e selecione a opção **``Reenviar convite``**.
 
-## 👀 Dicas
+## <i data-lucide="lightbulb" class="icon-dica"></i> Dicas
 
 - Confirme o e-mail do colaborador antes de enviar o convite, evitando erros de digitação.
 

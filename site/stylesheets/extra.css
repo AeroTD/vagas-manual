@@ -88,7 +88,6 @@
   vertical-align: -2px;   /* alinha com o texto */
   margin-right: .35rem;   /* espaço antes do texto */
   flex: 0 0 auto;
-  color: #137BBF;
 ;
 }
 
@@ -158,4 +157,10 @@
 .icon-exlg{
     width: 3rem;
     height: 3rem;
+}
+
+.icon-dica{
+    width: 2rem; /* 32px */
+    height: 2rem;
+    color: #ebb61a;
 }

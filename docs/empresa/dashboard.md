@@ -1,1 +1,1 @@
-# ✔️ Dashboard
+# <i data-lucide="check" class="icon-lg"></i> Dashboard

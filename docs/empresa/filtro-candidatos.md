@@ -1,45 +1,46 @@
-# ✔️ Filtros de Candidatos
+# <i data-lucide="funnel-plus" class="icon-lg"></i> Filtros de Candidatos
 
-## 🎯 Objetivo
+## <i data-lucide="target" class="icon-lg"></i> Objetivo
 
 Utilizar filtros avançados para localizar candidatos de acordo com critérios específicos, como formação, localização, idade, idiomas, licenças, entre outros.
 
 ---
 
-## ✅ Pré-requisitos
+## <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
 
 - Ter uma **conta criada** no sistema (via cadastro).
 - Estar logado com um perfil **empresarial**.
-- Acessar o menu lateral e clicar em **`Busca de Candidatos`** ou acesse o link [https://redeaviacao.com.br/candidatos](https://redeaviacao.com.br/candidatos).
+- Acessar o menu lateral e clicar em **`Busca de Candidatos`** ou acesse a página de [Candidatos](https://redeaviacao.com.br/candidatos).
 
 ---
 
-## 📝 Passo a passo
+## <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
 
 1. Clique no botão **`Filtros`** para abrir a tela de filtros de candidatos.
-2. Defina a opção em **Mostrar resultados que atendam**:
-   - **Todos os Grupos (E):** o candidato precisa atender a **todos** os critérios definidos.
-   - **Qualquer Grupo (OU):** o candidato pode atender a **um ou mais** dos critérios definidos.
-3. Em **Grupo 1**, configure:
-   - **Campo:** selecione uma das opções abaixo para serem filtradas: 
-        - **Nome**
-        - **Cidade** 
-        - **UF** 
-        - **Idioma** 
-        - **Aeronave** 
-        - **Licença de Piloto** 
-        - **Licença de Mecânico** 
-        - **Idade** 
-        - **Formação** 
-        - **Tags**
-   - **Operador:** defina a condição de comparação:
-     - **Contém**
-     - **Igual a**
-     - **Não contém**
-     - **Maior que**
-     - **Menor que**
-     - **Entre**
-   - **Valor:** insira o critério a ser buscado (ex.: Cidade = São Paulo, Idioma = Inglês Avançado, Idade > 25).
+2. ??? "Defina a opção em **``Mostrar resultados que atendam``**"
+      - **Todos os Grupos (E):** o candidato precisa atender a **todos** os critérios definidos.
+      - **Qualquer Grupo (OU):** o candidato pode atender a **um ou mais** dos critérios definidos.
+
+3. ??? "Em **``Grupo 1``**, configure"
+      - **Campo:** selecione uma das opções abaixo para serem filtradas: 
+            - **Nome**
+            - **Cidade** 
+            - **UF** 
+            - **Idioma** 
+            - **Aeronave** 
+            - **Licença de Piloto** 
+            - **Licença de Mecânico** 
+            - **Idade** 
+            - **Formação** 
+            - **Tags**
+      - **Operador:** defina a condição de comparação:
+        - **Contém**
+        - **Igual a**
+        - **Não contém**
+        - **Maior que**
+        - **Menor que**
+        - **Entre**
+      - **Valor:** insira o critério a ser buscado (ex.: Cidade = São Paulo, Idioma = Inglês Avançado, Idade > 25).
 4. Caso necessário, clique em **`+`** para adicionar mais condições dentro do mesmo grupo.
 5. Para adicionar um novo grupo de regras, clique em **`+ Grupo`** e configure novos filtros.
 6. Após configurar os filtros, clique em **`Buscar`** para visualizar os candidatos que atendem aos critérios.
@@ -48,7 +49,7 @@ Utilizar filtros avançados para localizar candidatos de acordo com critérios e
 
 ---
 
-## 🛠️ Solução de problemas
+## <i data-lucide="wrench" class="icon-lg"></i> Solução de problemas
 
 #### Nenhum candidato encontrado
   - Revise os critérios aplicados; filtros muito restritivos podem reduzir os resultados.
@@ -66,7 +67,7 @@ Utilizar filtros avançados para localizar candidatos de acordo com critérios e
 
 ---
 
-## 👀 Dicas
+## <i data-lucide="lightbulb" class="icon-dica"></i> Dicas
 
 - Use **combinações de grupos** para refinar a busca (ex.: Idioma = Inglês **E** Formação = Engenharia).
 - Utilize **operadores lógicos** (E/OU) de acordo com a necessidade:

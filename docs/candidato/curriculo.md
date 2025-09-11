@@ -1,20 +1,20 @@
-# ✔️ Cadastro de currículo
+# <i data-lucide="check" class="icon-lg"></i> Cadastro de currículo
 
-## 🎯 Objetivo
+## <i data-lucide="target" class="icon-lg"></i> Objetivo
 
 Cadastrar currículo para poder se candidatar às vagas.
 
 ---
 
-## ✅ Pré-requisitos
+## <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
 
 - Ter uma **conta criada** no sistema (via cadastro ou convite de empresa).
 - Estar logado com um perfil de candidato.
-- Caminho da página currículo: `dashboard/curriculo`
+- Acesse a página [Currículo](https://redeaviacao.com.br/dashboard/curr%C3%ADculo)
 
 ---
 
-## 📝 Passo a passo
+## <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
 
 1. Clicar no **``Perfil``** localizado no canto superior a direita.
 
@@ -22,23 +22,30 @@ Cadastrar currículo para poder se candidatar às vagas.
 
 3. Preencha os campos solicitados 
 
-    - Em ``Dados pessoais``, insira todas as suas informações pessoais atualizadas para facilitar na busca de vagas.
-    - Em ``Formação acadêmica``, mantenha as informações sempre atualizadas para aumentar a relevância do seu perfil.   
-    - Em ``Experiências profissionais`` informe todas as suas experiências na área, ou pelo menos, as últimas experiências. _Essas informações podem ser decisivas no processo seletivo._ 
-    - Em ``Cursos e Certificações`` dê preferência em colocar os cursos relevantes da área desejada. 
-    - Em ``Idiomas`` informe o(s) idioma(s) que você fala sempre colocando o nível de domínio. _Algumas entrevistas poderão acontecer com base no seu nível de domínio._
+    - ??? "**Dados Pessoais**" 
+        - Insira todas as suas informações pessoais atualizadas para facilitar na busca de vagas.
+    
+    - ??? "**Formação Acadêmica**"
+        - Mantenha as informações sempre atualizadas para aumentar a relevância do seu perfil.
+    
+    - ??? "**Experiências profissionais**"
+        - Informe todas as suas experiências na área, ou pelo menos, as últimas experiências. _Essas informações podem ser decisivas no processo seletivo._
 
-4. Clique em Salvar para finalizar o cadastro
+    - ??? "**Cursos e Ceritifcações**"
+        - Dê preferência em colocar os cursos relevantes da área desejada.
+
+    - ??? "**Idiomas**"
+        - Informe o(s) idioma(s) que você fala sempre colocando o nível de domínio. _Algumas entrevistas poderão acontecer com base no seu nível de domínio._     
+
+4. Clique em **``Salvar``** para finalizar o cadastro
 
 ---
 
-## 🛠️ Solução de problemas
+## <i data-lucide="wrench" class="icon-lg"></i> Solução de problemas
 
 #### Não consigo acessar a página de currículo
 
-- Verifique se está logado como candidato (não funciona para perfil de recrutador).
-
-- Confirme se o link está correto: /dashboard/curriculo.
+- Verifique se está logado como candidato **(não funciona para perfil de recrutador)**.
 
 #### Erro ao salvar currículo
 
@@ -54,9 +61,9 @@ Cadastrar currículo para poder se candidatar às vagas.
 #### Esqueci de preencher informações importantes
 
 - Clique em Editar currículo dentro do seu perfil.
-- Altere os dados necessários e clique em Salvar novamente.
+- Altere os dados necessários e clique em **``Salvar``** novamente.
 
-## 👀 Dicas
+## <i data-lucide="lightbulb" class="icon-dica"></i> Dicas
 
 - Mantenha seu currículo sempre atualizado para aumentar as chances de contratação.
 

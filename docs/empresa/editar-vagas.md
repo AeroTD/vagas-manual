@@ -1,20 +1,20 @@
-# ✔️ Edição de Vagas
+# <i data-lucide="pen" class="icon-lg"></i> Edição de Vagas
 
-## 🎯 Objetivo
+## <i data-lucide="target" class="icon-lg"></i> Objetivo
 
 Editar alguma informação da vaga aberta.
 
 ---
 
-## ✅ Pré-requisitos
+## <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
 
 - Ter uma **conta criada** no sistema (via cadastro ou convite de empresa).
 - Estar logado com um perfil de candidato.
-- URL de vagas abertas: [https://www.redeaviacao.com.br/empresa/vagas](https://www.redeaviacao.com.br/empresa/vagas)
+- Acesse a página de [Vagas Abertas](https://www.redeaviacao.com.br/empresa/vagas)
 
 ---
 
-## 📝 Passo a passo
+## <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
 
 1. Clicar em **`Gestão de Vagas`** no menu suspenso à esquerda.
 2. Selecionar a vaga que deseja editar, clicar em **`...`** e selecionar a opção **`Editar Vaga`**.
@@ -23,7 +23,7 @@ Editar alguma informação da vaga aberta.
 
 ---
 
-## 🛠️ Solução de problemas
+## <i data-lucide="wrench" class="icon-lg"></i> Solução de problemas
 
 #### Editei errado a vaga e não quero confirmar as alterações
 
@@ -54,7 +54,7 @@ Editar alguma informação da vaga aberta.
 
 ---
 
-## 👀 Dicas
+## <i data-lucide="lightbulb" class="icon-dica"></i> Dicas
 
 - Mantenha sempre os dados da empresa atualizados para transmitir mais credibilidade aos candidatos.
 - Utilize títulos e descrições claros, objetivos e atrativos.
