@@ -18,11 +18,11 @@ Cadastrar vagas para buscar novos colaboradores.
 
 1. Clicar em **`Gestão de Vagas`** no menu suspenso à esquerda.
 
-2. ??? "Clicar em **``Criar nova vaga``**"
+2. ??? "Clicar em **Criar nova vaga**"
     - Selecionar um template de vaga pré-definido. Caso a vaga não se encaixe em nenhuma das opções, clique em **`Outros`**.
     - Após definir o template, clique em **`Criar vaga`** para avançar para os detalhes da vaga.
  
-3. ??? "Em **``Detalhes da vaga``**, informe"
+3. ??? "Em **Detalhes da vaga**, informe"
     - Título da vaga
     - Código da vaga (ex.: PIL-2025-001, conforme padrão da empresa)
     - Cargo
@@ -31,38 +31,38 @@ Cadastrar vagas para buscar novos colaboradores.
     - Formato de trabalho (presencial, remoto ou híbrido)
     - Marque se a vaga também será destinada a PCDs
 
-4. ??? "Em **``Descrição da vaga``**, informe"
+4. ??? "Em **Descrição da vaga**, informe"
     - Descrição completa da vaga, incluindo benefícios e informações relevantes para atrair candidatos
     - Responsabilidades do profissional que ocupará a vaga
     - Requisitos necessários, como formação acadêmica, cursos, certificações e experiências desejadas
 
-5. ??? "Em **``Localização da vaga``**, informe"
+5. ??? "Em **Localização da vaga**, informe"
     - CEP
     - Rua
     - Número
     - Cidade
     - Estado
 
-6. ??? "Em **``Dados internos da vaga``**, informe"
+6. ??? "Em **Dados internos da vaga**, informe"
     - Quantidade de vagas
     - Salário fixo
     - Faixa salarial (caso haja)
     - Horário de trabalho
     - Dias da semana
 
-7. ??? "Em **``Definição de etapas``**, informe"
+7. ??? "Em **Definição de etapas**, informe"
     - As etapas do processo seletivo que os candidatos deverão passar
     - Exemplos: Inscrição, Triagem, Teste de Conhecimento, Entrevista Técnica, Entrevista Comportamental e Resultado
     - Caso necessário, crie novas etapas personalizadas de acordo com o processo seletivo da empresa
 
-8. ??? "Em **``Perguntas da vaga``**, informe"
+8. ??? "Em **Perguntas da vaga**, informe"
     - Tipo da pergunta a ser feita ao candidato (ex.: múltipla escolha, dissertativa, sim/não)
     - Enunciado claro e objetivo
     - Defina se a pergunta será obrigatória ou opcional
     - Clique em **`Salvar Pergunta`** para registrar
     - Todas as perguntas cadastradas ficarão listadas na seção **Perguntas Cadastradas**, onde poderão ser consultadas, editadas ou removidas
 
-9. ??? "Em **``Requisitos da vaga``**, informe"
+9. ??? "Em **Requisitos da vaga**, informe"
     - Defina se deseja mostrar candidatos que atendam a todos os grupos de requisitos (E) ou a qualquer grupo (OU)
     - No Conjunto de Requisitos, selecione:
             - **Campo:** a informação do candidato que será avaliada (ex.: formação, experiência, idioma)
@@ -72,7 +72,7 @@ Cadastrar vagas para buscar novos colaboradores.
     - Caso necessário, clique em **`Adicionar Grupo`** para criar combinações de requisitos
     - Após configurar, clique em **`Salvar Requisitos`**
 
-10. ??? "Em **``Recrutadores``**, informe"
+10. ??? "Em **Recrutadores**, informe"
     - No campo **`Selecione o Recrutador`**, escolha o colaborador responsável por avaliar os candidatos
     - Clique em **`Adicionar`** para incluir o recrutador na lista
     - Caso queira adicionar mais de um responsável, repita o processo para cada recrutador

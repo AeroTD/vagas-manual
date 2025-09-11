@@ -17,11 +17,11 @@ Utilizar filtros avançados para localizar candidatos de acordo com critérios e
 ## <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
 
 1. Clique no botão **`Filtros`** para abrir a tela de filtros de candidatos.
-2. ??? "Defina a opção em **``Mostrar resultados que atendam``**"
+2. ??? "Defina a opção em **Mostrar resultados que atendam**"
       - **Todos os Grupos (E):** o candidato precisa atender a **todos** os critérios definidos.
       - **Qualquer Grupo (OU):** o candidato pode atender a **um ou mais** dos critérios definidos.
 
-3. ??? "Em **``Grupo 1``**, configure"
+3. ??? "Em **Grupo 1**, configure"
       - **Campo:** selecione uma das opções abaixo para serem filtradas: 
             - **Nome**
             - **Cidade** 
