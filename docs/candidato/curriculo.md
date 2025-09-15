@@ -24,18 +24,23 @@ Cadastrar currículo para poder se candidatar às vagas.
 
     - ??? "**Dados Pessoais**" 
         - Insira todas as suas informações pessoais atualizadas para facilitar na busca de vagas.
+        ![Tela de curriculo](../imagens/Cadastro-curriculo/dados-pessoais.png)
     
     - ??? "**Formação Acadêmica**"
         - Mantenha as informações sempre atualizadas para aumentar a relevância do seu perfil.
+        ![Tela de curriculo](../imagens/Cadastro-curriculo/formacao-academica.png)
     
     - ??? "**Experiências profissionais**"
         - Informe todas as suas experiências na área, ou pelo menos, as últimas experiências. _Essas informações podem ser decisivas no processo seletivo._
+        ![Tela de curriculo](../imagens/Cadastro-curriculo/experiencia-profissional.png)
 
     - ??? "**Cursos e Ceritifcações**"
         - Dê preferência em colocar os cursos relevantes da área desejada.
+        ![Tela de curriculo](../imagens/Cadastro-curriculo/cursos-certificacoes.png)
 
     - ??? "**Idiomas**"
-        - Informe o(s) idioma(s) que você fala sempre colocando o nível de domínio. _Algumas entrevistas poderão acontecer com base no seu nível de domínio._     
+        - Informe o(s) idioma(s) que você fala sempre colocando o nível de domínio. _Algumas entrevistas poderão acontecer com base no seu nível de domínio._
+        ![Tela de curriculo](../imagens/Cadastro-curriculo/Idiomas.png)     
 
 4. Clique em **``Salvar``** para finalizar o cadastro
 
