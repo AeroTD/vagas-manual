@@ -57,7 +57,6 @@ Ensinar como acessar o sistema da Rede Aviação.
 
 ## <i data-lucide="lightbulb" class="icon-dica"></i> Dicas
 
-- Para alternar entre **candidato** e **recrutador**, basta usar a mesma conta se ela tiver permissões.
 - Caso esteja vinculado a mais de uma empresa, escolha a **empresa ativa** no topo após logar.
-- Use a opção **"Lembrar-me"** somente em computadores pessoais, nunca em dispositivos compartilhados.
+
 
