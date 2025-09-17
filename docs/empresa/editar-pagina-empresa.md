@@ -17,19 +17,27 @@ Editar informações da página da empresa, incluindo dados de identidade, redes
 ## <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
 
 1. Acesse o menu e clique em **`Página da Empresa`**.
+
 2. ??? "Em **"Identidade pública"**, preencha:"
     - **URL personalizada:** insira um identificador único para sua empresa (ex.: `redeaviacao.com.br/empresas/demonstracao`)
     - **Website:** endereço oficial da empresa (ex.: `https://www.exemplo.com`)
     - **Descrição da empresa:** resumo claro e objetivo (máx. 1000 caracteres)
+    ![Tela de identidade pública](../imagens/Editar-pagina-empresa/identidade-publica.png)
+
 3. ??? "Em **"Redes sociais"**, preencha os campos correspondentes:"
     - **LinkedIn:** link do perfil da empresa
     - **Instagram:** link do perfil da empresa
     - **Facebook:** link do perfil da empresa
+    ![Tela de redes sociais](../imagens/Editar-pagina-empresa/redes-sociais.png)
+
 4. ??? "Em **"Branding"**, adicione imagens:"
     - **Logo da empresa:** PNG/JPG/JPEG; fundo transparente recomendado; dimensões mínimas 100x100 px, máximas 3000x3000 px; máximo 4MB
     - **Banner da empresa:** PNG/JPG/JPEG; horizontal; dimensões mínimas 1200x300 px, máximas 6000x3000 px; máximo 10MB
+    ![Tela de branding](../imagens/Editar-pagina-empresa/branding.png)
+
 5. Clique em **`Salvar`** para aplicar as alterações.
 6. Utilize a opção **`Ver página pública`** para visualizar como a página ficará para os candidatos.
+    ![Tela de redes sociais](../imagens/Editar-pagina-empresa/salvar.png)
 
 ---
 

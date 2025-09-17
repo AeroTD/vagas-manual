@@ -22,9 +22,9 @@ Ensinar como se candidatar em uma vaga.
 
 2. ??? "**Candidatar a uma vaga em específico**" 
     - Selecionar a vaga.
-    ![Tela de filtros de vaga](../imagens/Candidatar-vagas/selecionar-vaga.png)
+    ![Tela de selecionar vaga](../imagens/Candidatar-vagas/selecionar-vaga.png)
     - Clicar na opção **`Quero me candidatar`**.
-    ![Tela de filtros de vaga](../imagens/Candidatar-vagas/quero-me-candidatar.png)
+    ![Tela de quero me candidatar](../imagens/Candidatar-vagas/quero-me-candidatar.png)
     - Caso tenha sido indicado por alguém que trabalha na empresa na qual está se candidatando, selecione a opção e informe o nome completo do colaborador e setor (caso seja solicitado). 
     ![Tela de filtros de vaga](../imagens/Candidatar-vagas/candidatura1.png)
 
