@@ -56,7 +56,7 @@ Cadastrar currículo para poder se candidatar às vagas.
 
 - Confirme se todos os campos obrigatórios (*) foram preenchidos.
 
-- Se estiver anexando arquivos, verifique se o formato e o tamanho são permitidos (ex.: PDF até 5MB).
+<!-- - Se estiver anexando arquivos, verifique se o formato e o tamanho são permitidos (ex.: PDF até 5MB). -->
 
 #### Currículo não aparece atualizado
 

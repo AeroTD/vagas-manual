@@ -1,22 +1,25 @@
 site_name: Manuais — Rede Aviação
 site_description: Passo a passo para usar o sistema de vagas de trabalho na aviação.
 site_url: https://aerotd.github.io/vagas-manual/
-# repo_url: https://github.com/AeroTD/vagas-manual - ícone github no menu
-# repo_name: GitHub - - ícone github no menu
 edit_uri: edit/main/docs/
 
 theme:
   name: material
-  font: 
+  language: pt-BR
+  font:
     text: Inter
     code: JetBrains Mono
-  language: pt-BR
   features:
     - navigation.tabs
     - navigation.sections
     - navigation.indexes
     - content.code.copy
-    - content.tabs.link
+    - content.code.annotate
+    - content.tooltips
+    - content.footnotes
+    - content.tabs # habilita abas
+    - content.tabs.link # permite linkar a aba
+    - content.images.preview # habilita zoom/preview de imagens
     - search.suggest
     - search.highlight
   palette:
@@ -28,7 +31,6 @@ theme:
 
 nav:
   - Início: index.md
-
   - Autenticação:
       - Login: autenticacao/login.md
       - Registro: autenticacao/registro.md
@@ -80,5 +82,5 @@ extra_css:
 
 extra_javascript:
   # Lucide (CDN)
-  - https://unpkg.com/lucide@latest/dist/umd/lucide.min.js # Script que inicializa os ícones após cada troca de página do Material
+  - https://unpkg.com/lucide@latest/dist/umd/lucide.min.js
   - javascripts/lucide-init.js
