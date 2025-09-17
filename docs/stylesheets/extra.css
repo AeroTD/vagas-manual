@@ -14,8 +14,6 @@
 /* Bordas arredondadas em cards/caixas */
 .md-typeset .admonition,
 .md-typeset details {
-  border-radius: 12px;
-  padding: 1rem;
   border: 1px solid #ddd;
 }
 
@@ -82,27 +80,26 @@
 .lucide {
   width: 30px;
   height: 30px;
-  stroke: currentColor;   /* herda a cor do texto/link */
+  stroke: currentColor; /* herda a cor do texto/link */
   fill: none;
   stroke-width: 2;
-  vertical-align: -2px;   /* alinha com o texto */
-  margin-right: .35rem;   /* espaço antes do texto */
+  vertical-align: -2px; /* alinha com o texto */
+  margin-right: 0.35rem; /* espaço antes do texto */
   flex: 0 0 auto;
-;
 }
 
 /* Ícone dentro de links e itens de lista do conteúdo */
 .md-typeset a .lucide,
 .md-typeset li .lucide {
-  margin-right: .35rem;
+  margin-right: 0.35rem;
 }
 
- /* Botões do Material */
+/* Botões do Material */
 .md-button .lucide {
   width: 20px;
   height: 20px;
   vertical-align: -3px;
-  margin-right: .4rem;
+  margin-right: 0.4rem;
 }
 
 /* Títulos com ícone */
@@ -112,15 +109,15 @@
   width: 1.1em;
   height: 1.1em;
   vertical-align: -0.1em;
-  margin-right: .4rem;
+  margin-right: 0.4rem;
 }
 
- /* Admonitions (caixas de info) – título com ícone */
+/* Admonitions (caixas de info) – título com ícone */
 .md-typeset .admonition > .admonition-title .lucide,
 .md-typeset details > summary .lucide {
   width: 1.05em;
   height: 1.05em;
-  margin-right: .4rem;
+  margin-right: 0.4rem;
 }
 
 /* Sidebar/nav (se você usar ícones dentro do conteúdo do nav) */
@@ -128,7 +125,7 @@
   width: 16px;
   height: 16px;
   vertical-align: -2px;
-  margin-right: .35rem;
+  margin-right: 0.35rem;
 }
 
 /* Hover/focus: mantém contraste com a cor primária do tema */
@@ -154,13 +151,13 @@
   height: 2rem;
 }
 
-.icon-exlg{
-    width: 3rem;
-    height: 3rem;
+.icon-exlg {
+  width: 3rem;
+  height: 3rem;
 }
 
-.icon-dica{
-    width: 2rem; /* 32px */
-    height: 2rem;
-    color: #ebb61a;
+.icon-dica {
+  width: 2rem; /* 32px */
+  height: 2rem;
+  color: #ebb61a;
 }
