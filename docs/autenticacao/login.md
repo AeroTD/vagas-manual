@@ -19,14 +19,12 @@ Ensinar como acessar o sistema da Rede Aviação.
 1. **Abrir a tela de login**
 
     - Clique em **`Entrar`** no menu superior ou vá direto para [Login](https://redeaviacao.com.br/login) .
-
     ![Tela de login](../imagens/Login/Home.png)
 
 2. **Preencher credenciais**
 
     - Informe o **e-mail** cadastrado.
     - Digite a **senha** escolhida no cadastro.
-
     ![Tela de login](../imagens/Login/Login.png)
 
 3. **Clicar em `Entrar`**
@@ -37,21 +35,18 @@ Ensinar como acessar o sistema da Rede Aviação.
 
 ## <i data-lucide="wrench" class="icon-lg"></i> Solução de problemas
 
-#### Erro de credenciais inválidas
+??? "**Erro de credenciais inválidas**"
+    - Confirme se digitou o e-mail corretamente.
+    - Senha diferencia maiúsculas/minúsculas.
+    - Se esqueceu, use [Esqueceu a senha](https://redeaviacao.com.br/forgot-password).
 
-- Confirme se digitou o e-mail corretamente.
-- Senha diferencia maiúsculas/minúsculas.
-- Se esqueceu, use [Esqueceu a senha](https://redeaviacao.com.br/forgot-password).
+??? "**Não recebi o e-mail de confirmação**"
+    - Verifique a pasta **Spam/Lixo eletrônico**.
+    - Solicite novo link clicando em **Reenviar e-mail de verificação**.
 
-#### Não recebi o e-mail de confirmação
-
-- Verifique a pasta **Spam/Lixo eletrônico**.
-- Solicite novo link clicando em **Reenviar e-mail de verificação**.
-
-#### Conta bloqueada
-
-- O sistema pode bloquear tentativas excessivas de login.
-- Aguarde alguns minutos ou entre em contato com o suporte.
+??? "**Conta bloqueada**"
+    - O sistema pode bloquear tentativas excessivas de login.
+    - Aguarde alguns minutos ou entre em contato com o suporte.
 
 ---
 
