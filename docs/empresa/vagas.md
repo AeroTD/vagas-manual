@@ -1,20 +1,22 @@
 # <i data-lucide="cog" class="icon-lg"></i> Gerenciamento de Vagas
 
-## <i data-lucide="target" class="icon-lg"></i> Objetivo
+## <i data-lucide="target" class="icon-lg"></i> Objetivo Geral
 
 Gerenciar as vagas para buscar novos colaboradores.
 
 ---
 
-## <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
+## <i data-lucide="check" class="icon-lg"></i> Cadastro de Vagas
+
+---
+
+### <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
 
 - Ter uma **conta criada** no sistema (via cadastro).
 - Estar logado com um perfil empresarial.
 - Acesse a página de [Vagas Abertas](https://redeaviacao.com.br/empresa/vagas)
 
----
 
-## <i data-lucide="check" class="icon-lg"></i> Cadastro de Vagas
 
 ---
 
@@ -49,7 +51,7 @@ Gerenciar as vagas para buscar novos colaboradores.
     - Número
     - Cidade
     - Estado
-    ![Tela de localizaçãop da vaga](../imagens/Vagas/localizacao_da_vaga.png)
+    - ![Tela de localizaçãop da vaga](../imagens/Vagas/localizacao_da_vaga.png)
 
 6. Em **Dados internos da vaga**, informe:
     - Quantidade de vagas (especificar o números de vagas para aquele cargo)
@@ -60,16 +62,16 @@ Gerenciar as vagas para buscar novos colaboradores.
     ![Tela de dados interno da vaga](../imagens/Vagas/dados_internos_vaga.png)
 
 7. Em **Definição de etapas**, informe quais são as etapas do processo seletivo que os candidatos deverão passar
-    - Exemplos: Inscrição, Triagem, Teste de Conhecimento, Entrevista Técnica, Entrevista Comportamental e Resultado
-    - Caso necessário, crie novas etapas personalizadas de acordo com o processo seletivo da empresa
+    - Exemplos: Inscrição, Triagem, Teste de Conhecimento, Entrevista Técnica, Entrevista Comportamental e Resultado.
+    - Caso necessário, crie novas etapas personalizadas de acordo com o processo seletivo da empresa.
     ![Tela de definição de etapas](../imagens/Vagas/definicao_de_etapas.png)
 
 8. Em **Perguntas da vaga**, informe:
     - Tipo da pergunta a ser feita ao candidato **(ex.: múltipla escolha, dissertativa, sim/não)**
-    - Enunciado claro e objetivo
-    - Defina se a pergunta será obrigatória ou opcional
-    - Clique em **`Salvar Pergunta`** para registrar
-    - Todas as perguntas cadastradas ficarão listadas na seção **Perguntas Cadastradas**, onde poderão ser consultadas, editadas ou removidas
+    - Enunciado claro e objetivo.
+    - Defina se a pergunta será obrigatória ou opcional.
+    - Clique em **`Salvar Pergunta`** para registrar.
+    - Todas as perguntas cadastradas ficarão listadas na seção **Perguntas Cadastradas**, onde poderão ser consultadas, editadas ou removidas.
     ![Tela de perguntas da vaga](../imagens/Vagas/perguntas_da_vaga.png)
 
 9. Em **Requisitos da vaga**, informe:
@@ -78,9 +80,9 @@ Gerenciar as vagas para buscar novos colaboradores.
             - **Campo:** a informação do candidato que será avaliada (ex.: formação, experiência, idioma)
             - **Operador:** a condição de comparação (ex.: igual, maior que, contém)
             - **Valor:** o critério esperado (ex.: inglês avançado, 2 anos de experiência)
-    - Marque se o requisito será obrigatório para participação no processo
-    - Caso necessário, clique em **`Adicionar Grupo`** para criar combinações de requisitos
-    - Após configurar, clique em **`Salvar Requisitos`**
+    - Marque se o requisito será obrigatório para participação no processo.
+    - Caso necessário, clique em **`Adicionar Grupo`** para criar combinações de requisitos.
+    - Após configurar, clique em **`Salvar Requisitos`**.
     ![Tela de requisitos da vaga](../imagens/Vagas/requisitos_da_vaga.png)
 
 10. Em **Recrutadores**, informe:
@@ -93,18 +95,14 @@ Gerenciar as vagas para buscar novos colaboradores.
 
 ---
 
-# <i data-lucide="pen" class="icon-lg"></i> Edição de Vagas
-
-## <i data-lucide="target" class="icon-lg"></i> Objetivo
-
-Editar alguma informação da vaga aberta.
+## <i data-lucide="pen" class="icon-lg"></i> Edição de Vagas
 
 ---
 
-## <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
+### <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
 
 - Ter uma **conta criada** no sistema (via cadastro ou convite de empresa).
-- Estar logado com um perfil de candidato.
+- Estar logado com um perfil empresarial.
 - Acesse a página de [Vagas Abertas](https://www.redeaviacao.com.br/empresa/vagas)
 
 ---
@@ -117,6 +115,27 @@ Editar alguma informação da vaga aberta.
 3. Realizar as edições necessárias.
 4. Clicar em **`Atualizar e Continuar`** para confirmar e aplicar as alterações.
 
+---
+
+## <i data-lucide="trash" class="icon-lg"></i> Exclusão de Vagas
+
+---
+
+### <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
+
+- Ter uma **conta criada** no sistema (via cadastro ou convite de empresa).
+- Estar logado com um perfil empresarial.
+- Acesse a página de [Vagas Abertas](https://www.redeaviacao.com.br/empresa/vagas)
+
+---
+
+### <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
+
+1. Clicar em **`Gestão de Vagas`** no menu suspenso à esquerda.
+2. Selecionar a vaga que deseja editar, clicar em **`...`** e selecionar a opção **`Excluir Vaga`**.
+![Tela de gestão de vaga](../imagens/Vagas/gestao_de_vaga.png)
+3. Confirmar a exclusão da vaga.
+![Tela de exclusão de vaga](../imagens/Vagas/exclusao_de_vaga.png)
 ---
 
 ## <i data-lucide="wrench" class="icon-lg"></i> Solução de problemas
