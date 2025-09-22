@@ -195,27 +195,31 @@ Gerenciar as vagas para buscar novos colaboradores.
 
 ## <i data-lucide="lightbulb" class="icon-dica"></i> Dicas
 
-- Descreva a vaga de forma clara e objetiva, incluindo funções, responsabilidades e requisitos
-- Informe a localização e se a vaga é remota, híbrida ou presencial
-- Se possível, adicione a faixa salarial para atrair candidatos mais alinhados
-- Use palavras-chave no título e na descrição da vaga para facilitar que candidatos encontrem a oportunidade
-- Defina com antecedência quem fará parte do processo seletivo (recrutadores e avaliadores)
-- Revise os dados antes de publicar para evitar edições constantes
-- Evite usar termos discriminatórios ou restritivos que possam excluir candidatos sem necessidade
-- Caso receba muitos currículos, utilize os filtros de triagem do sistema para agilizar a seleção
-- Sempre revise o **template de vaga** antes de criar para garantir que está adequado à posição
-- Use **benefícios e diferenciais** da empresa para tornar a vaga mais atrativa
-- Evite termos vagos como “boa comunicação” ou “proativo” sem detalhar como isso se aplica à função
-- Quando houver várias vagas semelhantes, utilize **códigos de vaga padronizados** para facilitar o gerenciamento
-- Para processos seletivos complexos, crie **etapas detalhadas** e utilize **perguntas específicas** para filtrar candidatos com mais precisão
-- Sempre **documente alterações** feitas nas vagas para histórico e auditoria interna
-- Para vagas PCD, verifique se todos os campos obrigatórios de acessibilidade estão preenchidos
-- Mantenha sempre os dados da empresa atualizados para transmitir mais credibilidade aos candidatos.
-- Utilize títulos e descrições claros, objetivos e atrativos.
-- Revise as informações de contato da empresa para evitar perda de oportunidades.
-- Adicione benefícios, diferenciais e informações sobre cultura da empresa para tornar a vaga mais interessante.
-- Ao fazer múltiplas alterações, revise cada seção antes de confirmar para evitar erros ou informações incompletas.
-- Se possível, utilize padrões consistentes de títulos e formatação para manter profissionalismo em todas as vagas.
-- Utilize palavras-chave relevantes em títulos e descrições para facilitar que candidatos encontrem a vaga.
-- Caso haja múltiplas vagas semelhantes, crie um padrão de código ou nomenclatura para facilitar a gestão.
-- Sempre documente alterações significativas feitas nas vagas, especialmente se impactarem o processo seletivo.
+??? "**Dicas de criação de vagas**"
+
+    - Descreva a vaga de forma clara e objetiva, incluindo funções, responsabilidades e requisitos.
+    - Informe a localização e se a vaga é **remota, híbrida ou presencial**.
+    - Se possível, adicione a faixa salarial para atrair candidatos mais alinhados.
+    - Use palavras-chave no título e na descrição da vaga para facilitar que candidatos encontrem a oportunidade.
+    - Defina com antecedência quem fará parte do processo seletivo **(recrutadores e avaliadores)**.
+    - Revise os dados antes de publicar para evitar edições constantes.
+    - Evite usar termos discriminatórios ou restritivos que possam excluir candidatos sem necessidade.
+    - Caso receba muitos currículos, utilize os filtros de triagem do sistema para agilizar a seleção.
+    - Sempre revise o **template de vaga** antes de criar para garantir que está adequado à posição
+    - Use **benefícios e diferenciais** da empresa para tornar a vaga mais atrativa.
+    - Evite termos vagos como “boa comunicação” ou “proativo” sem detalhar como isso se aplica à função.
+    - Quando houver várias vagas semelhantes, utilize **códigos de vaga padronizados** para facilitar o gerenciamento.
+    - Para processos seletivos complexos, crie **etapas detalhadas** e utilize **perguntas específicas** para filtrar candidatos com mais precisão.
+    - Para vagas PCD, verifique se todos os campos obrigatórios de acessibilidade estão preenchidos.
+
+??? "**Dicas de edição de vagas**"
+
+    - Mantenha sempre os dados da empresa atualizados para transmitir mais credibilidade aos candidatos.
+    - Utilize títulos e descrições claros, objetivos e atrativos.
+    - Revise as informações de contato da empresa para evitar perda de oportunidades.
+    - Adicione benefícios, diferenciais e informações sobre cultura da empresa para tornar a vaga mais interessante.
+    - Ao fazer múltiplas alterações, revise cada seção antes de confirmar para evitar erros ou informações incompletas.
+    - Se possível, utilize padrões consistentes de títulos e formatação para manter profissionalismo em todas as vagas.
+    - Utilize palavras-chave relevantes em títulos e descrições para facilitar que candidatos encontrem a vaga.
+    - Caso haja múltiplas vagas semelhantes, crie um padrão de código ou nomenclatura para facilitar a gestão.
+    - Sempre documente alterações significativas feitas nas vagas, especialmente se impactarem o processo seletivo.
