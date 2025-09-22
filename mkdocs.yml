@@ -46,6 +46,7 @@ nav:
       - Filtro de Candidatos: empresa/filtro-candidatos.md
       - Editar Página da Empresa: empresa/editar-pagina-empresa.md
       - Convite Colaborador: empresa/convite-colaborador.md
+      - Vagas: empresa/vagas.md
 
 plugins:
   - search
