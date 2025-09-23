@@ -1,4 +1,4 @@
-# <i data-lucide="funnel-plus" class="icon-lg"></i> Filtros de Candidatos
+# <i data-lucide="funnel-plus" class="icon-lg"></i> Busca de Candidatos
 
 ### <i data-lucide="target" class="icon-lg"></i> Objetivo
 
