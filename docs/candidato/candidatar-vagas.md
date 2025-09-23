@@ -2,13 +2,13 @@
 
 ---
 
-## <i data-lucide="target" class="icon-lg"></i> Objetivo
+### <i data-lucide="target" class="icon-lg"></i> Objetivo
 
 Ensinar como se candidatar em uma vaga.
 
 ---
 
-## <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
+### <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
 
 - Ter uma **conta criada** no sistema (via cadastro ou convite de empresa).
 - Estar logado com um perfil de candidato.
@@ -16,9 +16,9 @@ Ensinar como se candidatar em uma vaga.
 
 ---
 
-## <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
+### <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
 
-1. Abrir a tela [Meu Dashboard](https://redeaviacao.com.br/dashboard/usu%C3%A1rio)
+1. **Abrir a tela [Meu Dashboard](https://redeaviacao.com.br/dashboard/usu%C3%A1rio)**
 
 2. **Candidatar a uma vaga em específico**
     - Selecionar a vaga.
@@ -41,7 +41,7 @@ Ensinar como se candidatar em uma vaga.
 
 ---
 
-## <i data-lucide="wrench" class="icon-lg"></i> Solução de problemas
+### <i data-lucide="wrench" class="icon-lg"></i> Solução de problemas
 
 ??? "**Acompanhar Candidatura**"
     - Verifique se está logado como candidato, não como recrutador.

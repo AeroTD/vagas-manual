@@ -1,12 +1,12 @@
 # <i data-lucide="check" class="icon-lg"></i> Cadastro de currículo
 
-## <i data-lucide="target" class="icon-lg"></i> Objetivo
+### <i data-lucide="target" class="icon-lg"></i> Objetivo
 
 Cadastrar currículo para poder se candidatar às vagas.
 
 ---
 
-## <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
+### <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
 
 - Ter uma **conta criada** no sistema (via cadastro ou convite de empresa).
 - Estar logado com um perfil de candidato.
@@ -14,13 +14,13 @@ Cadastrar currículo para poder se candidatar às vagas.
 
 ---
 
-## <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
+### <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
 
-1. Clicar no **``Perfil``** localizado no canto superior a direita.
+1. **Clicar no ``Perfil`` localizado no canto superior a direita.**
 
-2. Clicar em **``Meu currículo``**.
+2. **Clicar em ``Meu currículo``.**
 
-3. Preencha os campos solicitados 
+3. **Preencha os campos solicitados** 
 
     - **Dados Pessoais** 
         - Insira todas as suas informações pessoais atualizadas para facilitar na busca de vagas.
