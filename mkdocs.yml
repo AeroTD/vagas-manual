@@ -41,12 +41,13 @@ nav:
       - Candidatar-se a uma Vaga: candidato/candidatar-vagas.md
   - Para Empresas:
       - Dashboard da Empresa: empresa/dashboard.md
-      - Criação de Vagas: empresa/criar-vaga.md
-      - Editar Vagas: empresa/editar-vagas.md
+      - Vagas: empresa/vagas.md
+      # - Criação de Vagas: empresa/criar-vaga.md
+      # - Editar Vagas: empresa/editar-vagas.md
       - Filtro de Candidatos: empresa/filtro-candidatos.md
       - Editar Página da Empresa: empresa/editar-pagina-empresa.md
       - Convite Colaborador: empresa/convite-colaborador.md
-      - Vagas: empresa/vagas.md
+      
 
 plugins:
   - search
