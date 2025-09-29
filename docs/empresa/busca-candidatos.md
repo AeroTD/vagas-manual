@@ -27,7 +27,7 @@ Utilizar filtros avançados para localizar candidatos de acordo com critérios e
       - **Campo:** selecione uma das opções abaixo para serem filtradas: 
            - **Nome** (filtra pelo nome do candidato)
            - **Cidade** (filtra pela cidade em que o candidato reside)
-           - **UF** (filtra pela unidade onde o candidato nasceu/reside)
+           - **UF** (filtra pela unidade onde o candidato reside)
            - **Idioma** (filtra pelos idiomas que o candidato informa no currículo)
            - **Aeronave** (filtra pelos tipos de aeronave que o candidato está apto a pilotar)
            - **Licença de Piloto** (filtra pela licença de piloto)
