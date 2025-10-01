@@ -20,11 +20,11 @@ Utilizar filtros avançados para localizar candidatos de acordo com critérios e
 
 2. **Defina a opção em ``Mostrar resultados que atendam``.**
       - **Todos os Grupos (E):** o candidato precisa atender a **todos** os critérios definidos.
-        - Se estiver marcado como **"E"** , e tiver dois grupos ou mais, o resultado vai filtrar as informações se atender ambos os grupos. (Ex. Quero filtrar os estados de RS, SC, PR que estão no **``Grupo 1``**, e quero filtrar os estados SP e RJ que estão **``Grupo 2``**. Logo o filtro será entre os estados RS, SC, PR, SP e RJ).
-        ![Tela de resultados que atendem o filtro E](../imagens/Filtro-candidato/filtro_grupos_exemplo_if.png)
+        - Se estiver marcado como **"E"** , e conter dois grupos ou mais, o resultado vai filtrar as informações se atender ambos os grupos. (Ex. Quero filtrar os estados de RS, SC, PR que estão no **``Grupo 1``**, **``E``** quero filtrar os estados SP e RJ que estão **``Grupo 2``**. Logo o filtro será entre os estados RS, SC, PR, SP e RJ).
+        ![Tela de busca que atendem o filtro E](../imagens/Filtro-candidato/filtro_grupos_exemplo_if.png)
       - **Qualquer Grupo (OU):** o candidato pode atender a **um ou mais** dos critérios definidos.
-        - Se tiver marcado o **"OU"**, e um grupo não encontrar algum resultado ele trará o filtro do outro grupo. (Ex. Quero filtrar os estados de RS, SC, PR que estão no **``Grupo 1``** **OU** mostrará o **``Grupo 2``** que irá filtrar os estados SP e RJ. O filtro irá filtrar os campos RS, SC e PR, caso não encontre nenhum candidato desse estado ele irá filtrar por SP e RJ).
-        ![Tela de resultados que atendem o filtro OU](../imagens/Filtro-candidato/filtro_grupos_exemplo_else.png)
+        - Se tiver marcado como **"OU"**, e um grupo não encontrar algum resultado ele trará o filtro do outro grupo. (Ex. Quero filtrar os estados de RS, SC, PR que estão no **``Grupo 1``** **OU** filtrar os estados SP e RJ no **``Grupo 2``**. O filtro irá filtrar os campos RS, SC e PR, caso não encontre nenhum candidato desse estado ele irá filtrar por SP e RJ).
+        ![Tela de busca que atendem o filtro OU](../imagens/Filtro-candidato/filtro_grupos_exemplo_else.png)
 
 3. **Em ``Grupo 1``, configure**
       - **Campo:** selecione uma das opções abaixo para serem filtradas: 
