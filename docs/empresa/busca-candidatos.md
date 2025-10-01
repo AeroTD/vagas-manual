@@ -37,7 +37,7 @@ Utilizar filtros avançados para localizar candidatos de acordo com critérios e
            - **Licença de Mecânico** (filtra pela licença de mecânico)
            - **Idade** (filtra pela idade)
            - **Formação** (filtra pela formação do candidato)
-           - **Tags**
+           - **Tags** (filtra candidatos que foram destacados pelo recrutador anteriormente)
       ![Tela de campos a serem filtrados](../imagens/Filtro-candidato/parametros1.png)     
 
 4. **Em ``Operador``, defina a condição de comparação**
@@ -51,8 +51,11 @@ Utilizar filtros avançados para localizar candidatos de acordo com critérios e
   
 5. **Em ``Valor``, insira o critério a ser buscado** 
 
-      - (ex.: Cidade = São Paulo **E** Idade entre 18 e 22).
-      ![Tela de adição de condição](../imagens/Filtro-candidato/filtro_grupo1_if.png)
+      - Com o filtro **"E"** dentro do Grupo será filtrado se o candidato **possuir as duas condições** especificadas (ex.: Cidade = São Paulo **E** Idade entre 18 e 22).
+      ![Tela de adição de condição E](../imagens/Filtro-candidato/filtro_grupo1_if.png)
+
+      - Com o filtro **"OU"** dentro do Grupo será filtrado se o candidato possuir **uma ou mais condições** especificadas, independente se ela possuem vínculo ou não (ex.: UF = SC **OU** Cidade = Porto Alegre).
+      ![Tela de adição de condição OU](../imagens/Filtro-candidato/Filtro_grupo1_else.png)
 
 6. **Caso necessário, clique em `+` para adicionar mais condições dentro do mesmo grupo.**
     - ![Tela de adição de condição](../imagens/Filtro-candidato/adicao_parametros.png)
