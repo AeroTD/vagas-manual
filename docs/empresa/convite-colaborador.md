@@ -29,7 +29,7 @@ Convidar um colaborador para exercer uma outra função na empresa.
     ![Tela de ações do convite](../imagens/Convite-colaborador/acoes_convite.jpg)
 
 5. **Para remover, é necessário clicar em ``Confirmar Exclusão`` para realizar a exclusão do convite.**
-    ![Tela de ações do convite](../imagens/Convite-colaborador/excluir-convite.jpg)        
+    ![Tela de exclusão de convite](../imagens/Convite-colaborador/excluir-convite.jpg)        
 
 
 

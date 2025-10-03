@@ -32,7 +32,7 @@ Ensinar como criar uma conta no sistema da **Rede Aviação** para acessar as fu
 3. **Enviar formulário**
       - Clique em **``Registrar``**.
       - Você será redirecionado para a tela de **verificação de e-mail**.
-      ![Tela de cadastro](../imagens/Registro/enviar-link-email.png)
+      ![Tela de enviar link de e-mail](../imagens/Registro/enviar-link-email.png)
       
 4. **Receber e-mail de verificação**
       - Verifique sua caixa de entrada (ou Spam).
@@ -41,7 +41,7 @@ Ensinar como criar uma conta no sistema da **Rede Aviação** para acessar as fu
 5. **Clicar no botão de confirmação**
       - Clique em **Confirmar e-mail**.
       - Você será redirecionado para o sistema.
-      ![Tela de cadastro](../imagens/Registro/confirmar-email.png)
+      ![Tela de confirmação de e-mail](../imagens/Registro/confirmar-email.png)
 
 6. **Entrar no sistema**
       - Após a confirmação, faça login normalmente.

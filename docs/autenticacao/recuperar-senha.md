@@ -17,7 +17,7 @@ Redefinir sua senha caso tenha esquecido, utilizando o fluxo padrão de autentic
 
 1.  **Abrir a tela de recuperação**
     - Clique em **Esqueceu sua senha?** na tela de login ou vá direto para [recuperação de senha](https://www.redeaviacao.com.br/forgot-password).
-    ![Tela de recuperação de senha](../imagens/Esqueceu%20a%20senha/Esqueceu%20a%20senha.png)
+    ![Tela de login e esqueceu a senha](../imagens/Esqueceu%20a%20senha/Esqueceu%20a%20senha.png)
 
 2.  **Informar e-mail cadastrado**
       - Digite seu e-mail e clique em **Enviar link de redefinição**.
@@ -27,16 +27,16 @@ Redefinir sua senha caso tenha esquecido, utilizando o fluxo padrão de autentic
 3.  **Acessar e-mail de redefinição**
       - Verifique a caixa de entrada (ou Spam).
       - Clique no botão/link recebido.
-      ![Tela de recuperação de senha](../imagens/Esqueceu%20a%20senha/Alterar-senha.png)
+      ![Tela de modificar senha no e-mail](../imagens/Esqueceu%20a%20senha/Alterar-senha.png)
 
 4.  **Definir nova senha**
       - Digite a nova senha e confirme.
       - Clique em **Salvar**.
-      ![Tela de recuperação de senha](../imagens/Esqueceu%20a%20senha/Redefinicao-senha.png)
+      ![Tela de modificação de senha](../imagens/Esqueceu%20a%20senha/Redefinicao-senha.png)
 
 5.  **Entrar novamente**
       - Após redefinir, volte à tela de login e acesse com a nova senha.
-      ![Tela de recuperação de senha](../imagens/Esqueceu%20a%20senha/Login.png)
+      ![Tela de login](../imagens/Esqueceu%20a%20senha/Login.png)
 
 ### <i data-lucide="wrench" class="icon-lg"></i> Solução de problemas
 
