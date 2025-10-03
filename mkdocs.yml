@@ -35,7 +35,7 @@ nav:
       - Login: autenticacao/login.md
       - Registro: autenticacao/registro.md
       - Recuperar Senha: autenticacao/recuperar-senha.md
-      - Verificar E-mail: autenticacao/verificar-email.md
+      # - Verificar E-mail: autenticacao/verificar-email.md
   - Para Candidatos:
       - Cadastrar Currículo: candidato/curriculo.md
       - Candidatar-se a uma Vaga: candidato/candidatar-vagas.md

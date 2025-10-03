@@ -36,7 +36,17 @@ Ensinar como criar uma conta no sistema da **Rede Aviação** para acessar as fu
 4. **Confirmar e-mail (se exigido)**
       - Abra a caixa de entrada do e-mail cadastrado.
       - Clique no link **Confirmar endereço de e-mail**.
-      - Volte ao sistema e faça login normalmente.
+
+5. **Receber e-mail de verificação**
+      - Verifique sua caixa de entrada (ou Spam).
+      - O e-mail terá o assunto **"Verifique seu endereço de e-mail"**.
+
+6. **Clicar no botão de confirmação**
+      - Clique em **Confirmar e-mail**.
+      - Você será redirecionado para o sistema.
+
+7. **Entrar no sistema**
+      - Após a confirmação, faça login normalmente.
 
 ---
 
@@ -48,6 +58,10 @@ Ensinar como criar uma conta no sistema da **Rede Aviação** para acessar as fu
 ??? "**Não recebi o e-mail de confirmação**" 
       - Verifique **Spam/Lixo eletrônico**.  
       - Clique em **Reenviar e-mail de verificação** na tela do sistema.
+      
+??? "**Link expirou**" 
+      - Volte ao sistema e solicite um novo e-mail de verificação.
+
 
 ---
 
@@ -55,3 +69,4 @@ Ensinar como criar uma conta no sistema da **Rede Aviação** para acessar as fu
 - Se você for **convidado por uma empresa**, use o mesmo e-mail do convite.
 - Para alternar entre funções (ex.: candidato e recrutador), o administrador pode atribuir permissões à mesma conta.
 - Não é necessário criar contas diferentes para cada função.
+- Se utilizou o e-mail corporativo, verifique com seu provedor se mensagens externas não estão bloqueadas.
