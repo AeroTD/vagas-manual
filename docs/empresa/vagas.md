@@ -134,6 +134,30 @@ Gerenciar as vagas para buscar novos colaboradores.
 ![Tela de gestão de vaga](../imagens/Vagas/gestao_de_vaga.png)
 3. **Confirmar a exclusão da vaga.**
 ![Tela de exclusão de vaga](../imagens/Vagas/exclusao_de_vaga.png)
+
+---
+
+## <i data-lucide="megaphone" class="icon-lg"></i> Gerenciamento de Publicação
+
+### <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
+
+- Ter uma **conta criada** no sistema (via cadastro ou convite de empresa).
+- Estar logado com um perfil empresarial.
+- Acesse a página de [Vagas Abertas](https://www.redeaviacao.com.br/empresa/vagas)
+
+---
+
+### <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
+
+1. **Clique nos `...` e selecione a opção ``Gerenciar Publicação``.**
+![Tela de gerenciamento de publicação](../imagens/Candidatar-vagas/gerenciar-publicacao.png)
+2. **Defina qual é a data de início da publicação e qual será a data final em `Configuração da Publicação`.**
+3. **Em `Ações de Controle` você ``Suspender`` ou ``Cancelar Publicação``.**
+4. **Em `Canal` você pode definir se a vaga se a vaga vai ser divulgada de maneira ``Interna`` ou ``Externa``.** 
+    - **Externa**: A vaga será divulgada para pessoas de dentro e fora da sua empresa.
+    - **Interna**: A vaga será divulaga apenas para pessoas da sua empresa.
+    ![Tela de ações da publicação da vaga](../imagens/Candidatar-vagas/acoes-publicar-vaga.png)
+
 ---
 
 ## <i data-lucide="wrench" class="icon-lg"></i> Solução de problemas
