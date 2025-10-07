@@ -42,6 +42,7 @@ nav:
   - Para Empresas:
       - Dashboard da Empresa: empresa/dashboard.md
       - Vagas: empresa/vagas.md
+      - Gestão do Processo Seletivo: empresa/gestao-processo-seletivo.md
       # - Criação de Vagas: empresa/criar-vaga.md
       # - Editar Vagas: empresa/editar-vagas.md
       - Busca de Candidatos: empresa/busca-candidatos.md
