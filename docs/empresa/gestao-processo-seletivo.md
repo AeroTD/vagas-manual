@@ -19,10 +19,10 @@ Ensinar como gerir o processo seletivo no Rede Aviação.
 1. **Clicar em ``...`` e selecionar a opção `Gestão` para acessar a tela de `Gestão do Processo Seletivo`.**
     - ![Tela de gestão de vagas](../imagens/Gestao-PS/Kanban1.png)
 
-2. Cada card representa uma etapa do processo seletivo, baseada na metodologia ágil do **``Kanban``**. **O recrutador pode mover o candidato para a etapa seguinte apenas ao arrastar o ícone de cada candidato.**
-    - ![Tela dos cards no estilo Kanban](../imagens/Gestao-PS/cards-kanban.png)
+2. Cada coluna representa uma etapa do processo seletivo, baseada na metodologia ágil do **``Kanban``**. **O recrutador pode mover o candidato entre as etapas apenas ao arrastar o ícone de cada candidato.**
+    - ![Tela das colunas no estilo Kanban](../imagens/Gestao-PS/cards-kanban.png)
 
-3. **O menu em cima é divido em abas para separar os tópicos de edição de vaga com os candidatos incritos na vaga**
+3. **O menu em cima é divido em abas separando em tópicos para poder consultar as informações da vaga**
 
     - ![Tela dos menus de edição de vagas](../imagens/Gestao-PS/menu-abas.png)
 
