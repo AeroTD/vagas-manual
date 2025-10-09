@@ -9,7 +9,7 @@ Redefinir sua senha caso tenha esquecido, utilizando o fluxo padrão de autentic
 ### <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
 
 - Ter acesso ao e-mail cadastrado.
-- Acessar a tela de [recuperação de senha](https://www.redeaviacao.com.br/forgot-password)
+- Acessar a tela de [Recuperação de senha](https://www.redeaviacao.com.br/forgot-password)
 
 ---
 

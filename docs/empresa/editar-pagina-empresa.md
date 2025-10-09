@@ -10,7 +10,7 @@ Editar informações da página da empresa, incluindo dados de identidade, redes
 
 - Ter uma **conta criada** no sistema (via cadastro ou convite de empresa).
 - Estar logado com **perfil de empresa**.
-- Acesse a página de [Edição da página da empresa](https://www.redeaviacao.com.br/empresa/pagina/criar)
+- Acesse a página de [Edição da Página da Empresa](https://www.redeaviacao.com.br/empresa/pagina/criar)
 
 ---
 
