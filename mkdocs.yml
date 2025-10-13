@@ -41,6 +41,7 @@ nav:
       - Candidatar-se a uma Vaga: candidato/candidatar-vagas.md
   - Para Empresas:
       - Dashboard da Empresa: empresa/dashboard.md
+      - Edição do Perfil de Recrutador: empresa/edicao-perfil-empresa.md
       - Vagas: empresa/vagas.md
       - Gestão do Processo Seletivo: empresa/gestao-processo-seletivo.md
       # - Criação de Vagas: empresa/criar-vaga.md
