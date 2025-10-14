@@ -39,6 +39,7 @@ nav:
   - Para Candidatos:
       - Cadastrar Currículo: candidato/curriculo.md
       - Candidatar-se a uma Vaga: candidato/candidatar-vagas.md
+      - Edição de Perfil do Candidato: candidato/edicao-perfil-candidato.md
   - Para Empresas:
       - Dashboard da Empresa: empresa/dashboard.md
       - Edição do Perfil de Recrutador: empresa/edicao-perfil-empresa.md
