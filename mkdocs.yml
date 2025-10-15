@@ -40,6 +40,7 @@ nav:
       - Cadastrar Currículo: candidato/curriculo.md
       - Candidatar-se a uma Vaga: candidato/candidatar-vagas.md
       - Edição de Perfil do Candidato: candidato/edicao-perfil-candidato.md
+      - Chat de Mensagens: interacao/chat.md
   - Para Empresas:
       - Dashboard da Empresa: empresa/dashboard.md
       - Edição do Perfil de Recrutador: empresa/edicao-perfil-empresa.md
@@ -48,8 +49,10 @@ nav:
       # - Criação de Vagas: empresa/criar-vaga.md
       # - Editar Vagas: empresa/editar-vagas.md
       - Busca de Candidatos: empresa/busca-candidatos.md
+      - Chat de Mensagens: interacao/chat.md
       - Editar Página da Empresa: empresa/editar-pagina-empresa.md
       - Convite Colaborador: empresa/convite-colaborador.md
+      
       
 
 plugins:
