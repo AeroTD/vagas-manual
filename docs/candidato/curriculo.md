@@ -79,7 +79,10 @@ Cadastrar currículo para poder se candidatar às vagas.
         ![Tela de curriculo](../imagens/Cadastro-curriculo/Idiomas.png)    
     
     - **Anexar Currículo**
-        - Caso deseje anexar o seu currículo, será aceito apenas no formatos **PDF, DOC, DOCX** e o arquivo deve ser **menor que 5MB**    
+        - Caso deseje anexar o seu currículo, basta clicar em **`Escolher arquivo`**, selecionar o arquivo e **`Enviar o currículo`**.
+        - Será aceito apenas arquivos que possuam os formatos **PDF, DOC, DOCX**. 
+        - O arquivo deve o tamanho **máximo de 5MB**
+        - Após o envio, o currículo ficará disponível no sistema para visualização pelas empresas.    
         -  ![Tela de anexar curriculo](../imagens/Cadastro-curriculo/anexar-curriculo.png) 
 
 ---
@@ -91,8 +94,7 @@ Cadastrar currículo para poder se candidatar às vagas.
 
 ??? "**Erro ao salvar currículo**"
     - Confirme se todos os campos obrigatórios (*) foram preenchidos.
-
-<!-- - Se estiver anexando arquivos, verifique se o formato e o tamanho são permitidos (ex.: PDF até 5MB). -->
+    - Se estiver anexando arquivos, verifique se o formato e o tamanho são permitidos (ex.: PDF até 5MB).
 
 ??? "**Currículo não aparece atualizado**"
     - Tente atualizar a página (CTRL + F5).
