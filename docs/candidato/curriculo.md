@@ -27,12 +27,20 @@ Cadastrar currículo para poder se candidatar às vagas.
         - Mantenha sempre as informações atualizadas para as buscas serem mais adequadas ao seu perfil.
             - **Primeiro Nome** (informe o seu primeiro nome para ser cadastro)
             - **Sobrenome** (informe o seu sobrenome para ser cadastro)
-            - **Apelido** (informe o nome no qual prefere ser chamado)
+            - **Nome Social** (informe o nome no qual prefere ser chamado)
             - **Data de nascimento** (informe a sua data de nascimento para o cadastro)
             - **Telefone de contato** (informe o seu telefone para contato)
             - **Gênero** (informe o seu gênero para cadastro, caso não queria informar clique em **``Prefiro não responder``**)
             - **Endereço** (informe o seu endereço atualizado para as vagas serem melhores recomendadas)
-     ![Tela de curriculo](../imagens/Cadastro-curriculo/dados-pessoais.png)
+            ![Tela de curriculo](../imagens/Cadastro-curriculo/dados-pessoais.png)
+            - **PCD** (informe a sua deficiência caso você possua algum tipo de deficiência)
+                - Em **`Especifique a deficiência`** selecione o tipo de deficiência que você possui
+                ![Tela de especificar defiência](../imagens/Cadastro-curriculo/Deficiencia.png)
+                - Em **`CID Correspondente`** você pode informar de maneira **opicional** o código CID relacionado à deficiência.. *Ex: F84.0, H54.0...*
+                - Em **`Observações`** você pode informar quais são as suas limitações, se há adaptações úteis ou outras informações relevantes.
+                - Caso possua mais de uma deficiência, clique em **`+ Adicionar Deficiência`** para incluir outras.
+                ![Tela de adição de deficiência](../imagens/Cadastro-curriculo/adicionar-deficiencia.png)
+            - ![Tela de PCD](../imagens/Cadastro-curriculo/PCD.png)
     
     - **Formação Acadêmica**
         - Mantenha as informações sempre atualizadas para aumentar a relevância do seu perfil.
@@ -49,7 +57,7 @@ Cadastrar currículo para poder se candidatar às vagas.
     - **Experiências profissionais**
         - Informe todas as suas experiências na área, ou pelo menos, as últimas experiências. _Essas informações podem ser decisivas no processo seletivo._
         - É importante informar a última empresa que trabalhou juntou ao **cargo**, caso esteja trabalhando atualmente nesta empresa selecione a opção **`Sim`** e informe qual foi a sua **Data de ínicio** no cargo.
-        - Descreva quais são (ou foram) as suas principais atividades.
+        - Descreva as suas principais atividades realizadas no cargo.
         - **Caso deseje informar mais de uma experiência profissional, clique em `+ Adicionar Experiência` e preencha as informações.**
         - **Após preencher todos os campos, clicar em `Salvar Experiências Profissionais` para salvar as informações.**
         ![Tela de experiência profissional](../imagens/Cadastro-curriculo/experiencia-profissional.png)
@@ -57,7 +65,7 @@ Cadastrar currículo para poder se candidatar às vagas.
     - **Cursos e Certificações**
         - Dê preferência em colocar os cursos/certificações relevantes da área desejada.
         - Para adicionar mais de um curso, basta clicar em **`+ Adicionar outro curso`**
-        - **Após preencher todos os campos, clicar em `Salvar Cursos e Certificações` para salvar as informações.**
+        - **Após preencher todos os campos, clicar em `Salvar Cursos e Certificações`.**
         ![Tela de cursos e certificações](../imagens/Cadastro-curriculo/cursos-certificacoes.png)
 
     - **Idiomas**
