@@ -76,7 +76,11 @@ Cadastrar currículo para poder se candidatar às vagas.
             ![Tela de nível idioma](../imagens/Cadastro-curriculo/nivel_fluencia.png)
         - **Caso queira adicionar mais de um idioma, clique em `+ Adicionar mais idiomas` e preencha as informações.**
         - **Após preencher todos os campos, clicar em `Salvar Idiomas` para salvar as informações.** 
-        ![Tela de curriculo](../imagens/Cadastro-curriculo/Idiomas.png)     
+        ![Tela de curriculo](../imagens/Cadastro-curriculo/Idiomas.png)    
+    
+    - **Anexar Currículo**
+        - Caso deseje anexar o seu currículo, será aceito apenas no formatos **PDF, DOC, DOCX** e o arquivo deve ser **menor que 5MB**    
+        -  ![Tela de anexar curriculo](../imagens/Cadastro-curriculo/anexar-curriculo.png) 
 
 ---
 
