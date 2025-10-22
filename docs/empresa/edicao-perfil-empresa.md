@@ -18,16 +18,17 @@ Editar informações do perfil, como **Dados pessoais**, **Alterar senha**, **Al
 
 1. **Acesse o menu a direita e clique em `Meu Perfil`.**
 
-2. Em **``E-mails de notificação por empresa``** neste campo você deverá inserir o e-mail no qual você deseja receber as notificações. 
-    - Após inserir o link e clicar em **``Adicionar & Enviar Verificação``**, será realizado o envio de um e-mail com um link de confirmação.
+2. **Em ``E-mails de notificação por empresa`` neste campo você deverá inserir o e-mail no qual você deseja receber as notificações.** 
+    - Após inserir o link, clique em **``Adicionar & Enviar Verificação``**, para receber um e-mail de confirmação.
     ![Tela de adição de e-mail](../imagens/Edicao-perfil/Empresa/Email-adicionado.png)
     - Em **``Confirmação do e-mail``** basta clicar em confirmar para ter o e-mail validado.
     ![Tela de confirmação de e-mail](../imagens/Edicao-perfil/Empresa/confirmacao-email.png)
 
-3. Em **``Dados Pessoais``** você podera alterar o seu nome e e-mail na plataforma. Para confirmar qualquer tipo de alteração você deverá inserir a sua senha por medidas de segurança.
+3. **Em ``Dados Pessoais``, é possível alterar o seu nome e e-mail na plataforma.**
+    - Para confirmar qualquer tipo de alteração, será necessário inserir sua senha atual por questões de segurança.
     ![Tela dos dados pessoais](../imagens/Edicao-perfil/Empresa/dados-pessoais.png)
     
-4. Em **``Alterar Senha``** você deverá inserir a sua senha atual para poder trocar a senha. 
+4. Em **``Alterar Senha``** insira sua senha atual, defina uma nova e confirme. 
     - Após a inserção da senha atual, você deverá inserir a nova senha e confirma-la. 
     - Após a alterção da senha, basta clicar em **`Salvar`** para aplicar as alterações.
     ![Tela de alteração de senha](../imagens/Edicao-perfil/Empresa/dados-pessoais.png)
