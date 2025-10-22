@@ -17,18 +17,15 @@ Ensinar como acessar o sistema da Rede Aviação.
 ### <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
 
 1. **Abrir a tela de login**
-
-    - Clique em **`Entrar`** no menu superior ou vá direto para [Login](https://redeaviacao.com.br/login).
+    - Clique em **`Entrar`** no menu superior ou acesse diretamente [Login](https://redeaviacao.com.br/login).
     ![Tela Home](../imagens/Login/Home.png)
 
 2. **Preencher credenciais**
-
     - Informe o **e-mail** cadastrado.
     - Digite a **senha** escolhida no cadastro.
     ![Tela de login](../imagens/Login/Login.png)
 
 3. **Clicar em `Entrar`**
-
     - Você será redirecionado para o **dashboard inicial** do sistema.
 
 ---
@@ -36,9 +33,9 @@ Ensinar como acessar o sistema da Rede Aviação.
 ### <i data-lucide="wrench" class="icon-lg"></i> Solução de problemas
 
 ??? "**Erro de credenciais inválidas**"
-    - Confirme se digitou o e-mail corretamente.
-    - Senha diferencia maiúsculas/minúsculas.
-    - Se esqueceu, use [Esqueceu a senha](https://redeaviacao.com.br/forgot-password).
+    - Verifique se digitou o e-mail corretamente.
+    - A senha diferencia letras maiúsculas e minúsculas.
+    - Se esqueceu, utilize a opção [Esqueceu a senha](https://redeaviacao.com.br/forgot-password).
 
 ??? "**Não recebi o e-mail de confirmação**"
     - Verifique a pasta **Spam/Lixo eletrônico**.
@@ -47,6 +44,10 @@ Ensinar como acessar o sistema da Rede Aviação.
 ??? "**Conta bloqueada**"
     - O sistema pode bloquear tentativas excessivas de login.
     - Aguarde alguns minutos ou entre em contato com o suporte.
+
+??? "**Erro de conexão com o servidor**"  
+    - Pode ocorrer por instabilidade na internet ou manutenção do sistema.  
+    - Aguarde alguns minutos e tente novamente.    
 
 ---
 
