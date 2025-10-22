@@ -38,7 +38,7 @@ nav:
       # - Verificar E-mail: autenticacao/verificar-email.md
   - Para Candidatos:
       - Cadastrar Currículo: candidato/curriculo.md
-      - Candidatar-se a uma Vaga: candidato/candidatar-vagas.md
+      - Candidatar-se a Vaga: candidato/candidatar-vagas.md
       - Edição de Perfil do Candidato: candidato/edicao-perfil-candidato.md
       - Chat de Mensagens: interacao/chat.md
   - Para Empresas:

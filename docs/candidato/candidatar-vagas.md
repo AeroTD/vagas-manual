@@ -1,4 +1,4 @@
-# <i data-lucide="check" class="icon-lg"></i> Candidatar a vagas
+# <i data-lucide="check" class="icon-lg"></i> Candidatar-se a vaga
 
 ---
 
@@ -18,7 +18,8 @@ Ensinar como se candidatar em uma vaga.
 
 ### <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
 
-1. **Abrir a tela [Meu Dashboard](https://redeaviacao.com.br/dashboard/usu%C3%A1rio)**
+1. **Abrir o Dashboard de Candidato**
+    - Clique em [Meu Dashboard](https://redeaviacao.com.br/dashboard/usu%C3%A1rio)**
 
 2. **Candidatar a uma vaga em específico**
     - Selecionar a vaga.
@@ -47,3 +48,18 @@ Ensinar como se candidatar em uma vaga.
     - Verifique se está logado como candidato, não como recrutador.
     - Confirme se preencheu todos os campos obrigatórios da candidatura.
     - Se a vaga já expirou, ela não estará disponível para candidatura.
+
+??? "A vaga não aparece na lista"
+    - Certifique-se de que não há filtros aplicados.
+    - Clique em Limpar filtros aplicados para exibir todas as vagas disponíveis.
+
+??? "Erro ao enviar candidatura"
+    - Tente recarregar a página e repetir o processo.
+    - Se o erro persistir, entre em contato com o suporte técnico.    
+
+### <i data-lucide="lightbulb" class="icon-dica"></i> Dicas
+
+- Mantenha seu **currículo atualizado** para aumentar suas chances.
+- Revise as informações da vaga antes de se candidatar.
+- Evite se candidatar a várias vagas na mesma empresa sem avaliar os requisitos.
+- Você pode acompanhar o status das candidaturas diretamente no **Dashboard**.    
