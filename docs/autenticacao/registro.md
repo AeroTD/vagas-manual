@@ -16,7 +16,7 @@ Ensinar como criar uma conta no sistema da **Rede Aviação** para acessar as fu
 ### <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
 
 1. **Abrir a tela de registro**
-      - Clique em **Registrar** no menu superior ou vá direto para tela de [Registro](https://redeaviacao.com.br/register).
+      - Clique em **Registrar** no menu superior ou vá direto para a tela de [Registro](https://redeaviacao.com.br/register).
       ![Tela de registro](../imagens/Registro/Cadastre-se.png)
 
 2. **Preencher os campos obrigatórios**
@@ -35,16 +35,16 @@ Ensinar como criar uma conta no sistema da **Rede Aviação** para acessar as fu
       ![Tela de enviar link de e-mail](../imagens/Registro/enviar-link-email.png)
       
 4. **Receber e-mail de verificação**
-      - Verifique sua caixa de entrada (ou Spam).
+      - Verifique sua caixa de entrada (ou **Spam/Lixo eletrônico**).
       - O e-mail terá o assunto **"Verifique seu endereço de e-mail"**.
       
 5. **Clicar no botão de confirmação**
-      - Clique em **Confirmar e-mail**.
+      - Clique em **``Confirmar E-mail``**.
       - Você será redirecionado para o sistema.
       ![Tela de confirmação de e-mail](../imagens/Registro/confirmar-email.png)
 
 6. **Entrar no sistema**
-      - Após a confirmação, faça login normalmente.
+      - Após a confirmação do e-mail, acesse o sistema realizando o login normalmente.
 
 ---
 
@@ -56,9 +56,14 @@ Ensinar como criar uma conta no sistema da **Rede Aviação** para acessar as fu
 ??? "**Não recebi o e-mail de confirmação**" 
       - Verifique **Spam/Lixo eletrônico**.  
       - Clique em **Reenviar e-mail de verificação** na tela do sistema.
+      - Confirme se digitou o endereço de e-mail corretamente.
       
 ??? "**Link expirou**" 
       - Volte ao sistema e solicite um novo e-mail de verificação.
+
+??? "CPF inválido ou já cadastrado"
+      - Verifique se o número foi digitado corretamente.
+      - Caso o CPF já esteja em uso, entre em contato com o suporte.
 
 
 ---
@@ -68,3 +73,4 @@ Ensinar como criar uma conta no sistema da **Rede Aviação** para acessar as fu
 - Para alternar entre funções (ex.: candidato e recrutador), o administrador pode atribuir permissões à mesma conta.
 - Não é necessário criar contas diferentes para cada função.
 - Se utilizou o e-mail corporativo, verifique com seu provedor se mensagens externas não estão bloqueadas.
+- Para maior segurança, **não compartilhe sua conta ou senha** com terceiros.
