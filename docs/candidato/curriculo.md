@@ -9,53 +9,55 @@ Cadastrar currículo para poder se candidatar às vagas.
 ### <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
 
 - Ter uma **conta criada** no sistema (via cadastro ou convite de empresa).
-- Estar logado com um perfil de candidato.
+- Estar logado com um **perfil de candidato**.
 - Acesse a página [Currículo](https://redeaviacao.com.br/dashboard/curr%C3%ADculo)
 
 ---
 
 ### <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
 
-1. **Clicar no ``Perfil`` localizado no canto superior a direita.**
+1. **Abrir o perfil**
+    - Clicar no **``Perfil``** no canto superior a direita.
 
-2. **Clicar em ``Meu currículo``.**
+2. **Acessar o currículo**
+    - Clicar em **``Meu currículo``**.
 
 3. **Preencha os campos solicitados** 
 
     - **Dados Pessoais** 
         - Insira todas as suas informações pessoais atualizadas para facilitar na busca de vagas.
         - Mantenha sempre as informações atualizadas para as buscas serem mais adequadas ao seu perfil.
-            - **Primeiro Nome** (informe o seu primeiro nome para ser cadastro)
-            - **Sobrenome** (informe o seu sobrenome para ser cadastro)
-            - **Nome Social** (informe o nome no qual prefere ser chamado)
-            - **Data de nascimento** (informe a sua data de nascimento para o cadastro)
-            - **Telefone de contato** (informe o seu telefone para contato)
-            - **Gênero** (informe o seu gênero para cadastro, caso não queria informar clique em **``Prefiro não responder``**)
-            - **Endereço** (informe o seu endereço atualizado para as vagas serem melhores recomendadas)
+            - **Primeiro Nome:** informe o seu primeiro nome para ser cadastro.
+            - **Sobrenome:** informe o seu sobrenome para ser cadastro.
+            - **Nome Social:** informe o nome no qual prefere ser chamado.
+            - **Data de nascimento:** informe a sua data de nascimento para o cadastro.
+            - **Telefone de contato:** informe o seu telefone para contato.
+            - **Gênero:** informe o seu gênero para cadastro, caso não queria informar clique em **``Prefiro não responder``**.
+            - **Endereço:** informe o seu endereço atualizado para as vagas serem melhores recomendadas.
             ![Tela de curriculo](../imagens/Cadastro-curriculo/dados-pessoais.png)
             - **PCD** (informe a sua deficiência caso você possua algum tipo de deficiência)
-                - Em **`Especifique a deficiência`** selecione o tipo de deficiência que você possui
+                - **`Especifique a deficiência`**: selecione o tipo de deficiência.
                 ![Tela de especificar defiência](../imagens/Cadastro-curriculo/Deficiencia.png)
-                - Em **`CID Correspondente`** você pode informar de maneira **opicional** o código CID relacionado à deficiência.. *Ex: F84.0, H54.0...*
-                - Em **`Observações`** você pode informar quais são as suas limitações, se há adaptações úteis ou outras informações relevantes.
-                - Caso possua mais de uma deficiência, clique em **`+ Adicionar Deficiência`** para incluir outras.
+                - **`CID Correspondente`**: campo **opicional**, insira o código CID relacionado à deficiência. (ex.: F84.0, H54.0...).
+                - **`Observações`**: descreva quais são as suas limitações, se há adaptações úteis ou outras informações relevantes.
+                - Para adicionar mais de uma deficiência, clique em **`+ Adicionar Deficiência`**.
                 ![Tela de adição de deficiência](../imagens/Cadastro-curriculo/adicionar-deficiencia.png)
             - ![Tela de PCD](../imagens/Cadastro-curriculo/PCD.png)
     
     - **Formação Acadêmica**
-        - Mantenha as informações sempre atualizadas para aumentar a relevância do seu perfil.
+        - Mantenha os dados sempre atualizados para aumentar a relevância do seu perfil.
         ![Tela de formação acadêmica](../imagens/Cadastro-curriculo/formacao-academica.png)
-             - **Nível** (informe qual o nível da sua formação acadêmica)
+             - **Nível:** informe qual o nível da sua formação acadêmica.
             ![Tela de nível do currículo](../imagens/Cadastro-curriculo/nivel-curriculo.png)
-            - **Nome do curso** (informe o nome da sua formação acadêmica)
-            - **Nome da instituição** (informe qual é o nome da instituição que você realizou ou está realizando a formação)
+            - **Nome do curso:** informe o nome da sua formação acadêmica
+            - **Nome da instituição:** informe qual é o nome da instituição que você realizou ou está realizando a formação.
             - Caso esteja cursando o curso, marque a opção **`Sim`** e informe o mês e ano de conclusão
             ![Tela se está cursando](../imagens/Cadastro-curriculo/esta-cursando.png)
-            - **Caso deseje informar mais de uma formação acadêmica, clique em `+ Adicionar Formação` e preencha as informações.**
-            - **Após preencher todos os campos, clicar em `Salvar Formação Acadêmica` para salvar as informações.**
+            - Para adicionar mais formações, clique em **`+ Adicionar Formação`** e preencha as informações.
+            - Após preencher todos os campos, clique em **`Salvar Formação Acadêmica`** para salvar as informações.
     
     - **Experiências profissionais**
-        - Informe todas as suas experiências na área, ou pelo menos, as últimas experiências. _Essas informações podem ser decisivas no processo seletivo._
+        - Informe todas ou, pelo menos, as suas últimas experiências. _Essas informações podem ser decisivas no processo seletivo._
         - É importante informar a última empresa que trabalhou juntou ao **cargo**, caso esteja trabalhando atualmente nesta empresa selecione a opção **`Sim`** e informe qual foi a sua **Data de ínicio** no cargo.
         - Descreva as suas principais atividades realizadas no cargo.
         - **Caso deseje informar mais de uma experiência profissional, clique em `+ Adicionar Experiência` e preencha as informações.**
@@ -104,11 +106,15 @@ Cadastrar currículo para poder se candidatar às vagas.
     - Clique em Editar currículo dentro do seu perfil.
     - Altere os dados necessários e clique em **``Salvar``** novamente.
 
+??? "Problemas com upload de arquivos"
+    - Certifique-se de que o arquivo não está corrompido.
+    - Tente outro navegador ou aba anônima se o problema persistir.
+
 ### <i data-lucide="lightbulb" class="icon-dica"></i> Dicas
 
 - Mantenha seu currículo sempre atualizado para aumentar as chances de contratação.
-- Destaque habilidades-chave e certificações relevantes.
+- Destaque **habilidades-chave** e certificações relevantes.
 - Evite deixar campos em branco, quanto mais completo, melhor.
-- Use linguagem clara e objetiva ao descrever experiências profissionais.
+- Use **linguagem clara e objetiva** ao descrever experiências profissionais.
 - Atualize suas informações de contato sempre que necessário.
-
+- Revise o currículo periodicamente (mensal ou trimestral) para garantir precisão.
