@@ -12,84 +12,81 @@ Gerenciar as vagas para buscar novos colaboradores.
 
 ### <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
 
-- Ter uma **conta criada** no sistema (via cadastro).
-- Estar logado com um perfil empresarial.
+- Ter uma **conta criada** no sistema (via cadastro ou convite de empresa).
+- Estar logado com um **perfil empresarial**.
 - Acesse a página de [Vagas Abertas](https://redeaviacao.com.br/empresa/vagas)
 
 ---
 
 ### <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
 
-1. **Clicar em `Gestão de Vagas` no menu suspenso à esquerda.**
+1. Acessar **Gestão de Vagas**
+    - Clique em **`Gestão de Vagas no menu lateral`**
 
-2. **Clicar em ``Criar nova vaga``**
+2. Criar em **Nova Vaga**
+    - Clique em **`Criar nova vaga`**. 
     - Selecionar um template de vaga pré-definido. Caso a vaga não se encaixe em nenhuma das opções, clique em **`Outros`**.
     - Após definir o template, clique em **`Criar vaga`** para avançar para os detalhes da vaga.
     ![Tela de criação de vaga](../imagens/Vagas/criar_vaga.png)
  
-3. **Em ``Detalhes da vaga``, informe:**
-    - Título da vaga (título que será divulgado)
-    - Código da vaga (ex.: PIL-2025-001, conforme padrão da empresa)
-    - Cargo (especificar qual é o cargo para vaga)
-    - Área de atuação (especificar a área de atuação)
-    - Tipo de contrato (CLT, PJ, estágio, etc.)
-    - Formato de trabalho (presencial, remoto ou híbrido)
+3. **Detalhes da vaga**
+    - Informe o **Título da vaga** (nome que será divulgado) 
+    - Informe o **Código da vaga** (ex.: PIL-2025-001, conforme padrão da empresa)
+    - Informe o **Cargo**
+    - Informe a **Área de atuação**
+    - Selecione o **Tipo de contrato** (CLT, PJ, estágio, etc.)
+    - Selecione o **Formato de trabalho** (presencial, remoto ou híbrido)
     - Marque se a vaga também será destinada a PCDs
     ![Tela de detalhes da vaga](../imagens/Vagas/detalhes_da_vaga.png)
 
-4. **Em ``Descrição da vaga``, informe:**
-    - Descrição completa da vaga, incluindo benefícios e informações relevantes para atrair candidatos
+4. **Descrição da vaga**
+    - Insira a descrição completa da vaga, incluindo benefícios e informações relevantes para atrair candidatos
     - Responsabilidades do profissional que ocupará a vaga
     - Requisitos necessários, como formação acadêmica, cursos, certificações e experiências desejadas
     ![Tela de descrição da vaga](../imagens/Vagas/descricao_da_vaga.png)
 
-5. **Em ``Localização da vaga``, informe:**
-    - CEP
-    - Rua
-    - Número
-    - Cidade
-    - Estado
+5. **Localização da vaga**
+    - Informe **CEP**, **Rua**, **Número**, **Cidade** e **Estado**
     - ![Tela de localizaçãop da vaga](../imagens/Vagas/localizacao_da_vaga.png)
 
-6. **Em ``Dados internos da vaga``, informe:**
-    - Quantidade de vagas (especificar o números de vagas para aquele cargo)
-    - Salário fixo (caso haja um salário fixo para vaga)
-    - Faixa salarial (caso haja)
-    - Horário de trabalho (informar quais são os horários de trabalho)
-    - Dias da semana (informar as escalas de trabalho)
+6. **Dados internos da vaga**
+    - Informe a quantidade de vagas (especificar o números de vagas para aquele cargo)
+    - Informe o salário fixo (caso haja um salário fixo para vaga)
+    - Informe a faixa salarial (caso haja)
+    - Informe o horário de trabalho (informar quais são os horários de trabalho)
+    - Informe os dias da semana (informar as escalas de trabalho)
     ![Tela de dados interno da vaga](../imagens/Vagas/dados_internos_vaga.png)
 
-7. **Em ``Definição de etapas``, informe quais são as etapas do processo seletivo que os candidatos deverão passar**
-    - Exemplos: Inscrição, Triagem, Teste de Conhecimento, Entrevista Técnica, Entrevista Comportamental e Resultado.
-    - Caso necessário, crie novas etapas personalizadas de acordo com o processo seletivo da empresa.
+7. **Definição de etapas**
+    - Configure as etapas do processo seletivo (ex.: Inscrição, Triagem, Teste, Entrevista Técnica, Entrevista Comportamental, Resultado)  
+    - Crie etapas personalizadas conforme a necessidade da empresa
     ![Tela de definição de etapas](../imagens/Vagas/definicao_de_etapas.png)
 
-8. **Em ``Perguntas da vaga``, informe:**
-    - Tipo da pergunta a ser feita ao candidato **(ex.: múltipla escolha, dissertativa, sim/não)**
-    - Enunciado claro e objetivo.
-    - Defina se a pergunta será obrigatória ou opcional.
-    - Clique em **`Salvar Pergunta`** para registrar.
-    - Todas as perguntas cadastradas ficarão listadas na seção **Perguntas Cadastradas**, onde poderão ser consultadas, editadas ou removidas.
+8. **Perguntas da vaga**
+    - Defina o **tipo da pergunta** (múltipla escolha, dissertativa, sim/não)
+    - Escreva um **enunciado claro e objetivo**  
+    - Indique se a pergunta é **obrigatória** ou **opcional**  
+    - Clique em **`Salvar Pergunta`** para registrar; todas as perguntas cadastradas ficarão listadas para consulta, edição ou remoção 
     ![Tela de perguntas da vaga](../imagens/Vagas/perguntas_da_vaga.png)
 
-9. **Em ``Requisitos da vaga``, informe:**
-    - Defina se deseja mostrar candidatos que atendam a todos os grupos de requisitos (E) ou a qualquer grupo (OU)
+9.  **Requisitos da vaga** 
+    - Escolha se o candidato deve atender a **todos os grupos** de requisitos (E) ou a **qualquer grupo** (OU)
     - No Conjunto de Requisitos, selecione:
-            - **Campo:** a informação do candidato que será avaliada (ex.: formação, experiência, idioma)
-            - **Operador:** a condição de comparação (ex.: igual, maior que, contém)
-            - **Valor:** o critério esperado (ex.: inglês avançado, 2 anos de experiência)
+        - **Campo:** a informação do candidato que será avaliada (ex.: formação, experiência, idioma)
+        - **Operador:** a condição de comparação (ex.: igual, maior que, contém)
+        - **Valor:** o critério esperado (ex.: inglês avançado, 2 anos de experiência)
     - Marque se o requisito será obrigatório para participação no processo.
     - Caso necessário, clique em **`Adicionar Grupo`** para criar combinações de requisitos.
     - Após configurar, clique em **`Salvar Requisitos`**.
     ![Tela de requisitos da vaga](../imagens/Vagas/requisitos_da_vaga.png)
 
-10. **Em ``Recrutadores``, informe:**
-    - No campo **`Selecione o Recrutador`**, escolha o colaborador responsável por avaliar os candidatos
-    - Clique em **`Adicionar`** para incluir o recrutador na lista
-    - Caso queira adicionar mais de um responsável, repita o processo para cada recrutador
-    - Os recrutadores selecionados ficarão listados em **Recrutadores Selecionados**
-    - Após finalizar, clique em **`Atualizar e Continuar`**.
+10. **Recrutadores**
+    - Em **`Selecione o Recrutador`**, escolha o colaborador responsável pela avaliação dos candidatos  
+    - Clique em **`Adicionar`** para incluí-lo na lista de responsáveis  
+    - Repita para adicionar mais recrutadores; os selecionados ficarão em **Recrutadores Selecionados**  
+    - Após finalizar, clique em **`Atualizar e Continuar`** 
     ![Tela de recrutadores](../imagens/Vagas/recrutadores.png)
+
 
 ---
 
@@ -100,18 +97,25 @@ Gerenciar as vagas para buscar novos colaboradores.
 ### <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
 
 - Ter uma **conta criada** no sistema (via cadastro ou convite de empresa).
-- Estar logado com um perfil empresarial.
+- Estar logado com um **perfil empresarial**.
 - Acesse a página de [Vagas Abertas](https://www.redeaviacao.com.br/empresa/vagas)
 
 ---
 
 ### <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
 
-1. **Clicar em `Gestão de Vagas` no menu suspenso à esquerda.**
-2. **Selecionar a vaga que deseja editar, clicar em `...` e selecionar a opção `Editar Vaga`**.
-![Tela de gestão de vaga](../imagens/Vagas/gestao_de_vaga.png)
-3. **Realizar as edições necessárias.**
-4. **Clicar em `Atualizar e Continuar` para confirmar e aplicar as alterações.**
+1. **Acessar Gestão de Vagas**  
+    - Clique em **`Gestão de Vagas`** no menu lateral à esquerda
+  
+2. **Editar vaga**  
+    - Selecione a vaga desejada, clique no botão com `...` e escolha **`Editar Vaga`** 
+    ![Tela de gestão de vaga](../imagens/Vagas/gestao_de_vaga.png)
+
+3. **Fazer as alterações necessárias**  
+    - Atualize campos, etapas, recrutadores ou requisitos conforme necessário
+
+4. **Salvar alterações**  
+    - Clique em **`Atualizar e Continuar`** para confirmar e aplicar as mudanças
 
 ---
 
@@ -122,18 +126,24 @@ Gerenciar as vagas para buscar novos colaboradores.
 ### <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
 
 - Ter uma **conta criada** no sistema (via cadastro ou convite de empresa).
-- Estar logado com um perfil empresarial.
+- Estar logado com um **perfil empresarial**.
 - Acesse a página de [Vagas Abertas](https://www.redeaviacao.com.br/empresa/vagas)
 
 ---
 
 ### <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
 
-1. **Clicar em `Gestão de Vagas` no menu suspenso à esquerda.**
-2. **Selecionar a vaga que deseja editar, clicar em `...` e selecionar a opção `Excluir Vaga`.**
-![Tela de gestão de vaga](../imagens/Vagas/gestao_de_vaga.png)
-3. **Confirmar a exclusão da vaga.**
-![Tela de exclusão de vaga](../imagens/Vagas/exclusao_de_vaga.png)
+1. **Acessar Gestão de Vagas**  
+    - Clique em **`Gestão de Vagas`** no menu lateral à esquerda
+
+2. **Excluir vaga**  
+    - Selecione a vaga, clique no botão com `...` e escolha **`Excluir Vaga`**  
+    ![Tela de gestão de vaga](../imagens/Vagas/gestao_de_vaga.png)
+
+3. **Confirmar exclusão**  
+    - Confirme a exclusão quando solicitado  
+    - **Atenção: a exclusão remove a vaga da plataforma e pode ser irreversível conforme a política da empresa**
+    ![Tela de exclusão de vaga](../imagens/Vagas/exclusao_de_vaga.png)
 
 ---
 
@@ -142,20 +152,27 @@ Gerenciar as vagas para buscar novos colaboradores.
 ### <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
 
 - Ter uma **conta criada** no sistema (via cadastro ou convite de empresa).
-- Estar logado com um perfil empresarial.
+- Estar logado com um **perfil empresarial**.
 - Acesse a página de [Vagas Abertas](https://www.redeaviacao.com.br/empresa/vagas)
 
 ---
 
 ### <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
 
-1. **Clique nos `...` e selecione a opção ``Gerenciar Publicação``.**
-![Tela de gerenciamento de publicação](../imagens/Candidatar-vagas/gerenciar-publicacao.png)
-2. **Defina qual é a data de início da publicação e qual será a data final em `Configuração da Publicação`.**
-3. **Em `Ações de Controle` você ``Suspender`` ou ``Cancelar Publicação``.**
-4. **Em `Canal` você pode definir se a vaga se a vaga vai ser divulgada de maneira ``Interna`` ou ``Externa``.** 
-    - **Externa**: A vaga será divulgada para pessoas de dentro e fora da sua empresa.
-    - **Interna**: A vaga será divulaga apenas para pessoas da sua empresa.
+1. **Abrir Gerenciamento de publicação**  
+    - Clique no botão com `...` da vaga e selecione **`Gerenciar Publicação`** 
+    ![Tela de gerenciamento de publicação](../imagens/Candidatar-vagas/gerenciar-publicacao.png)
+
+2. **Definir período de publicação**  
+    - Configure a **data de início** e a **data final** em **`Configuração da Publicação`**
+
+3. **Ações de controle**  
+    - Em **`Ações de Controle`**, escolha **`Suspender`** ou **`Cancelar Publicação`** conforme necessário
+
+4. **Canais de divulgação**  
+    - Em **`Canal`**, defina se a vaga será divulgada **`Externa`** (para público geral) ou **`Interna`** (apenas dentro da empresa)  
+        - **Externa**: divulgada para candidatos dentro e fora da empresa  
+        - **Interna**: divulgada apenas aos colaboradores da empresa  
     ![Tela de ações da publicação da vaga](../imagens/Candidatar-vagas/acoes-publicar-vaga.png)
 
 ---
