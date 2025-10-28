@@ -2,14 +2,14 @@
 
 ### <i data-lucide="target" class="icon-lg"></i> Objetivo
 
-Utilizar filtros avançados para localizar candidatos de acordo com critérios específicos, como formação, localização, idade, idiomas, licenças, entre outros.
+Utilizar filtros avançados para localizar candidatos de acordo com critérios específicos, como **formação, localização, idade, idiomas, licenças**, entre outros.
 
 ---
 
 ### <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
 
 - Ter uma **conta criada** no sistema (via cadastro).
-- Estar logado com um perfil **empresarial**.
+- Estar logado com um **perfil empresarial**.
 - Acessar o menu lateral e clicar em **`Busca de Candidatos`** ou acesse a página de [Candidatos](https://redeaviacao.com.br/candidatos).
 
 ---
