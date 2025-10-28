@@ -9,7 +9,7 @@ Ensinar como gerir o processo seletivo no Rede Aviação.
 ### <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
 
 - Ter uma **conta criada** no sistema (via cadastro).
-- Estar logado com um perfil **empresarial**.
+- Estar logado com um **perfil empresarial**.
 - Acesse a página de [Vagas Abertas](https://redeaviacao.com.br/empresa/vagas)
 
 ---
@@ -22,7 +22,7 @@ Ensinar como gerir o processo seletivo no Rede Aviação.
 2. Cada coluna representa uma etapa do processo seletivo, baseada na metodologia ágil do **``Kanban``**. **O recrutador pode mover o candidato entre as etapas apenas ao arrastar o ícone de cada candidato.**
     - ![Tela das colunas no estilo Kanban](../imagens/Gestao-PS/cards-kanban.png)
 
-3. **O menu em cima é divido em abas separando em tópicos para poder consultar as informações da vaga**
+3. **O menu em cima é divido em abas**, separando em tópicos para facilitar a consulta das informações da vaga.
 
     - ![Tela dos menus de edição de vagas](../imagens/Gestao-PS/menu-abas.png)
 
@@ -40,7 +40,7 @@ Ensinar como gerir o processo seletivo no Rede Aviação.
     - Certifique-se de **clicar e arrastar** o card do candidato corretamente até a próxima etapa.
     - Evite mover candidatos para etapas que não estão habilitadas.
 
-??? "**Botão de "Editar Vaga" não funciona**"
+??? "**Botão de ``Editar Vaga`` não funciona**"
     - Atualize a página e tente novamente.
     - Verifique se a vaga ainda está **ativa** (vagas encerradas bloqueiam edição).
     - Se persistir, limpe o **cache do navegador** ou tente acessar em aba anônima.
