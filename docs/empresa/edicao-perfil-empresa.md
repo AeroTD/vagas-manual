@@ -8,8 +8,8 @@ Editar informações do perfil, como **Dados pessoais**, **Alterar senha**, **Al
 
 ### <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
 
-- Ter uma **conta criada** no sistema como recrutador (via cadastro ou convite de empresa).
-- Estar logado com **perfil de empresa**.
+- Ter uma **conta criada** no sistema como **recrutador** (via cadastro ou convite de empresa).
+- Estar logado com **perfil de empresa / recrutador**.
 - Acesse a página de [Meu perfil](https://www.https://redeaviacao.com.br/perfil)
 
 ---
@@ -18,22 +18,30 @@ Editar informações do perfil, como **Dados pessoais**, **Alterar senha**, **Al
 
 1. **Acesse o menu a direita e clique em `Meu Perfil`.**
 
-2. **Em ``E-mails de notificação por empresa`` neste campo você deverá inserir o e-mail no qual você deseja receber as notificações.** 
-    - Após inserir o link, clique em **``Adicionar & Enviar Verificação``**, para receber um e-mail de confirmação.
-    ![Tela de adição de e-mail](../imagens/Edicao-perfil/Empresa/Email-adicionado.png)
-    - Em **``Confirmação do e-mail``** basta clicar em confirmar para ter o e-mail validado.
-    ![Tela de confirmação de e-mail](../imagens/Edicao-perfil/Empresa/confirmacao-email.png)
+2. **E-mails de notificação por empresa**
 
-3. **Em ``Dados Pessoais``, é possível alterar o seu nome e e-mail na plataforma.**
-    - Para confirmar qualquer tipo de alteração, será necessário inserir sua senha atual por questões de segurança.
+    - No campo **`E-mails de notificação por empresa`**, insira o endereço de e-mail que deverá receber as notificações da empresa.  
+    - Após inserir o e-mail, clique em **`Adicionar & Enviar Verificação`** para disparar um e-mail com o link de confirmação.  
+    ![Tela de adição de e-mail](../imagens/Edicao-perfil/Empresa/Email-adicionado.png)
+     - No e-mail recebido, clique em **`Confirmar`** para validar o endereço.
+    ![Tela de confirmação de e-mail](../imagens/Edicao-perfil/Empresa/confirmacao-email.png)
+     - **Observação: o e-mail só passará a receber notificações após a confirmação.**
+
+3.  **Dados Pessoais**  
+    - Em **`Dados Pessoais`**, você pode alterar **nome** e **e-mail** cadastrados na plataforma.  
+    - Por segurança, ao salvar alterações será solicitado que você informe sua **senha atual** para confirmar a operação.  
     ![Tela dos dados pessoais](../imagens/Edicao-perfil/Empresa/dados-pessoais.png)
     
-4. Em **``Alterar Senha``** insira sua senha atual, defina uma nova e confirme. 
-    - Após a inserção da senha atual, você deverá inserir a nova senha e confirma-la. 
-    - Após a alterção da senha, basta clicar em **`Salvar`** para aplicar as alterações.
+4. **Alterar Senha**  
+    - Acesse a aba **`Alterar Senha`**, informe a **senha atual**, defina a **nova senha** e confirme-a.  
+    - Clique em **`Salvar`** para aplicar a alteração.  
+    - Requisitos recomendados: **mínimo de 8 caracteres**, incluindo **letras e números**. 
     ![Tela de alteração de senha](../imagens/Edicao-perfil/Empresa/dados-pessoais.png)
 
-5. Em **`Deletar Conta`** você poderá deletar a sua conta **permanentemente**, excluindo todos os dados do sistema.
+5. **Deletar Conta**  
+    - Em **`Deletar Conta`** você pode excluir sua conta **permanentemente**, removendo todos os dados vinculados à conta.  
+    - Essa ação é **irreversível**; verifique dependências (vagas ativas, processos seletivos) antes de prosseguir.  
+    - O sistema solicitará confirmação adicional (e, possivelmente, a senha) antes de concluir a exclusão.  
     ![Tela de confirmação de e-mail](../imagens/Edicao-perfil/Empresa/deletar-conta.png)
 
 ---
