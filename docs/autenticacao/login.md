@@ -17,7 +17,7 @@ Ensinar como acessar o sistema da Rede Aviação.
 ### <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
 
 1. **Abrir a tela de login**
-    - Clique em **`Entrar`** no menu superior ou acesse diretamente [Login](https://redeaviacao.com.br/login).
+    - Clique em **`Acessar plataforma`** no menu superior ou acesse diretamente [Login](https://redeaviacao.com.br/login).
     ![Tela Home](../imagens/Login/Home.png)
 
 2. **Preencher credenciais**
