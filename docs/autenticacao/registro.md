@@ -1,8 +1,12 @@
-# <i data-lucide="user-round-plus" class="icon-lg"></i> Registro de Usuário
+# <i data-lucide="users" class="icon-lg"></i> Registro na Plataforma
 
 ### <i data-lucide="target" class="icon-lg"></i> Objetivo
 
 Ensinar como criar uma conta no sistema da **Rede Aviação** para acessar as funcionalidades de candidato, recrutador ou empresa (conforme permissões atribuídas).
+
+---
+
+## <i data-lucide="user-round-plus" class="icon-lg"></i> Cadastro Candidato
 
 ---
 
@@ -48,7 +52,22 @@ Ensinar como criar uma conta no sistema da **Rede Aviação** para acessar as fu
 
 ---
 
-### <i data-lucide="wrench" class="icon-lg"></i> Solução de problemas
+## <i data-lucide="building-2" class="icon-lg"></i> Cadastro de Empresa
+
+---
+
+### <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
+
+- Acessar a tela de [Registro](https://www.redeaviacao.com.br/register)
+- Ter acesso ao e-mail informado (para confirmação).
+
+---
+
+### <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
+
+---
+
+## <i data-lucide="wrench" class="icon-lg"></i> Solução de problemas
 
 ??? "**Já existe uma conta com este e-mail**"
       - Use a opção [Recuperar senha](https://www.redeaviacao.com.br/forgot-password) ou cadastre outro e-mail.
@@ -68,7 +87,7 @@ Ensinar como criar uma conta no sistema da **Rede Aviação** para acessar as fu
 
 ---
 
-### <i data-lucide="lightbulb" class="icon-dica"></i> Dicas
+## <i data-lucide="lightbulb" class="icon-dica"></i> Dicas
 - Se você for **convidado por uma empresa**, use o mesmo e-mail do convite.
 - Para alternar entre funções (ex.: candidato e recrutador), o administrador pode atribuir permissões à mesma conta.
 - Não é necessário criar contas diferentes para cada função.

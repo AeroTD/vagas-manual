@@ -24,8 +24,8 @@ theme:
     - search.highlight
   palette:
     - scheme: default
-      primary: blue
-      accent: blue
+      primary: custom
+      accent: custom
   favicon: imagens/favicon.png
   logo: imagens/rede_aviacao_logo.png
 
@@ -42,7 +42,6 @@ nav:
       - Edição de Perfil do Candidato: candidato/edicao-perfil-candidato.md
       - Chat de Mensagens: interacao/chat.md
   - Para Empresas:
-      - Dashboard da Empresa: empresa/dashboard.md
       - Edição do Perfil de Recrutador: empresa/edicao-perfil-empresa.md
       - Vagas: empresa/vagas.md
       - Gestão do Processo Seletivo: empresa/gestao-processo-seletivo.md
