@@ -32,10 +32,12 @@ Cadastrar currículo para poder se candidatar às vagas.
             - **Nome Social:** informe o nome no qual prefere ser chamado.
             - **Data de nascimento:** informe a sua data de nascimento para o cadastro.
             - **Telefone de contato:** informe o seu telefone para contato.
+            - **Código CANAC** informe o seu código CANAC (ex.: 1234567 ou ANAC12345).
             - **Gênero:** informe o seu gênero para cadastro, caso não queria informar clique em **``Prefiro não responder``**.
-            - **Endereço:** informe o seu endereço atualizado para as vagas serem melhores recomendadas.
             ![Tela de curriculo](../imagens/Cadastro-curriculo/dados-pessoais.png)
+            - **Documentos para viagens internacionais** (informe a validade do passaporte)
             - **PCD** (informe a sua deficiência caso você possua algum tipo de deficiência)
+            ![Tela do passaporte e PCD](../imagens/Cadastro-curriculo/Passaporte.png)
                 - **`Especifique a deficiência`**: selecione o tipo de deficiência.
                 ![Tela de especificar defiência](../imagens/Cadastro-curriculo/Deficiencia.png)
                 - **`CID Correspondente`**: campo **opicional**, insira o código CID relacionado à deficiência. (ex.: F84.0, H54.0...).
@@ -43,7 +45,22 @@ Cadastrar currículo para poder se candidatar às vagas.
                 - Para adicionar mais de uma deficiência, clique em **`+ Adicionar Deficiência`**.
                 ![Tela de adição de deficiência](../imagens/Cadastro-curriculo/adicionar-deficiencia.png)
             - ![Tela de PCD](../imagens/Cadastro-curriculo/PCD.png)
+            - **Perfil do Linkedin** (informe o link do seu perfil do Linkedin, caso tenha um perfil e queira informar).
+            - **Informações profissionais** (informe a função que você exerce atualmente e função pretendida na aviaçao).
+            - **Disponibilidade** (Disponível para viagens e mudança)
+             ![Tela de informações profissionais](../imagens/Cadastro-curriculo/Linkedin.png)
     
+    - **Endereço**
+        - Informe o seu endereço completo para facilitar a busca por vagas próximas a você.
+        - Mantenha os dados sempre atualizados para aumentar a relevância do seu perfil.
+            - **CEP:** informe o CEP do seu endereço para facilitar o preenchimento dos outros campos (somente números).
+            - **Endereço**:** informe o nome da rua onde você mora.
+            - **Complemento:** informe um complemento caso seja necessário (ex.: apartamento, bloco, etc.).
+            - **Bairro:** informe o nome do bairro onde você mora.
+            - **Cidade:** informe o nome da cidade onde você mora.
+            - **UF:** informe o estado onde você mora.
+             ![Tela de endereço](../imagens/Cadastro-curriculo/Enderecopng.png)
+
     - **Formação Acadêmica**
         - Mantenha os dados sempre atualizados para aumentar a relevância do seu perfil.
         ![Tela de formação acadêmica](../imagens/Cadastro-curriculo/formacao-academica.png)
