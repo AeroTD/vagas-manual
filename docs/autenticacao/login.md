@@ -23,7 +23,7 @@ Ensinar como acessar o sistema da Rede Aviação.
 2. **Preencher credenciais**
     - Informe o **e-mail** cadastrado.
     - Digite a **senha** escolhida no cadastro.
-    ![Tela de login](../imagens/Login/Login.png)
+    ![Tela login](../imagens/Login/Login.png)
 
 3. **Clicar em `Entrar`**
     - Você será redirecionado para o **dashboard inicial** do sistema.
