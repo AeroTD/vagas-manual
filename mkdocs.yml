@@ -33,7 +33,7 @@ nav:
   - Início: index.md
   - Autenticação:
       - Login: autenticacao/login.md
-      - Registro: autenticacao/registro.md
+      - Cadastro: autenticacao/cadastro.md
       - Recuperar Senha: autenticacao/recuperar-senha.md
       # - Verificar E-mail: autenticacao/verificar-email.md
   - Para Candidatos:
