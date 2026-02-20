@@ -1,12 +1,12 @@
 # <i data-lucide="pen" class="icon-lg"></i> Edição da Página da Empresa
 
-### <i data-lucide="target" class="icon-lg"></i> Objetivo
+## <i data-lucide="target" class="icon-lg"></i> Objetivo
 
 Editar informações da página da empresa, incluindo dados de identidade, redes sociais e branding, garantindo que os candidatos visualizem informações atualizadas e consistentes.
 
 ---
 
-### <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
+## <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
 
 - Ter uma **conta criada** no sistema (via cadastro ou convite de empresa).
 - Estar logado com **perfil de empresa**.
@@ -14,9 +14,9 @@ Editar informações da página da empresa, incluindo dados de identidade, redes
 
 ---
 
-### <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
+## <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
 
-1. **Acesse o menu e clique em `Página da Empresa`.**
+1. **Acesse o menu e clique em `Editar Página da Empresa`.**
 
 2. **Em ``Identidade pública``, preencha:**
     - **URL personalizada:** insira um identificador único para sua empresa (ex.: `redeaviacao.com.br/empresas/demonstracao`)
@@ -31,7 +31,7 @@ Editar informações da página da empresa, incluindo dados de identidade, redes
     ![Tela de redes sociais](../imagens/Editar-pagina-empresa/redes-sociais.png)
 
 4. **Em ``Branding``, adicione imagens:**
-    - **Logo da empresa:** PNG/JPG/JPEG; fundo transparente recomendado; dimensões mínimas 100x100 px, máximas 3000x3000 px; máximo 4MB
+    - **Logo da empresa:** PNG/JPG/JPEG; fundo transparente recomendado; dimensões mínimas 100x100 px, máximas 3000x3000 px; máximo 1MB
     - **Banner da empresa:** PNG/JPG/JPEG; horizontal; dimensões mínimas 1200x300 px, máximas 6000x3000 px; máximo 10MB
     ![Tela de branding](../imagens/Editar-pagina-empresa/branding.png)
 
@@ -42,7 +42,7 @@ Editar informações da página da empresa, incluindo dados de identidade, redes
 
 ---
 
-### <i data-lucide="wrench" class="icon-lg"></i> Solução de problemas
+## <i data-lucide="wrench" class="icon-lg"></i> Solução de problemas
 
 ??? "**Alterações não aparecem após salvar**"
     - Atualize a página (CTRL + F5)
@@ -63,7 +63,7 @@ Editar informações da página da empresa, incluindo dados de identidade, redes
 
 ---
 
-### <i data-lucide="lightbulb" class="icon-dica"></i> Dicas
+## <i data-lucide="lightbulb" class="icon-dica"></i> Dicas
 
 - Use **descrições claras e objetivas** para melhorar a credibilidade da empresa
 - Inclua **benefícios e diferenciais** no texto de apresentação
