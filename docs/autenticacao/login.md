@@ -1,12 +1,12 @@
 # <i data-lucide="key-round" class="icon-lg"></i> Login no Sistema
 
-### <i data-lucide="target" class="icon-lg"></i> Objetivo
+## <i data-lucide="target" class="icon-lg"></i> Objetivo
 
 Ensinar como acessar o sistema da Rede Aviação.
 
 ---
 
-### <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
+## <i data-lucide="square-check" class="icon-lg"></i> Pré-requisitos
 
 - Ter uma **conta criada** no sistema (via cadastro ou convite de empresa).
 - Ter confirmado o e-mail (caso exigido).
@@ -14,7 +14,7 @@ Ensinar como acessar o sistema da Rede Aviação.
 
 ---
 
-### <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
+## <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
 
 1. **Abrir a tela de login**
     - Clique em **`Acessar plataforma`** no menu superior ou acesse diretamente [Login](https://redeaviacao.com.br/login).
@@ -30,7 +30,7 @@ Ensinar como acessar o sistema da Rede Aviação.
 
 ---
 
-### <i data-lucide="wrench" class="icon-lg"></i> Solução de problemas
+## <i data-lucide="wrench" class="icon-lg"></i> Solução de problemas
 
 ??? "**Erro de credenciais inválidas**"
     - Verifique se digitou o e-mail corretamente.
@@ -51,7 +51,7 @@ Ensinar como acessar o sistema da Rede Aviação.
 
 ---
 
-### <i data-lucide="lightbulb" class="icon-dica"></i> Dicas
+## <i data-lucide="lightbulb" class="icon-dica"></i> Dicas
 
 - Caso esteja vinculado a mais de uma empresa, escolha a **empresa ativa** no topo após logar.
 
