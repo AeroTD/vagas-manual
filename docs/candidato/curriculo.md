@@ -22,7 +22,12 @@ Cadastrar currículo para poder se candidatar às vagas.
 2. **Acessar o currículo**
     - Clicar em **``Meu currículo``**.
 
-3. **Preencha os campos solicitados** 
+3. **Selecione o tipo do currículo**
+    - Selecione o tipo de currículo desejado (Piloto, Mecânico de Manutenção, Engenheiro, Comissário de Voo, Trabalhos em Aeroportos ou Outros). 
+    - É possível adicionar mais de uma área (exemplo: Piloto e Engenheiro).
+    ![Tela de montar curriculo](../imagens/Cadastro-curriculo/Monte_seu_curriculo.png)
+
+4. **Preencha os campos solicitados** 
 
     - **Dados Pessoais** 
         - Insira todas as suas informações pessoais atualizadas para facilitar na busca de vagas.
@@ -83,8 +88,19 @@ Cadastrar currículo para poder se candidatar às vagas.
            
     - **Cursos e Certificações**
         - Dê preferência em colocar os cursos/certificações relevantes da área desejada.
+            - **Título:** informe o nome do curso ou certificação.
+            - **Categoria:** informe a categoria do curso ou certificação.
+            - **Tipo:** Informe o tipo (curso, certificação ou treinamento interno)
+            - **Data de conclusão:** informe a data de conclusão do curso ou certificação.
+            - **Válido até:** informe a data de validade do curso ou certificação, caso haja uma data de validade.
+            - **Instituição:** informe o nome da instituição que ofereceu o curso ou certificação.
+            - **Modalidade:** informe a modalidade do curso (presencial, online ou híbrido).
+            - **Carga horária:** informe a carga horária do curso em horas.
+            - **Local:** informe o local onde o curso ou certificação foi realizado.
+            - **Código/Registro:** informe o código ou registro do curso ou certificação, caso haja um código ou registro.
         - Para adicionar mais de um curso, basta clicar em **`+ Adicionar outro curso`**
         - **Após preencher todos os campos, clicar em `Salvar Cursos e Certificações`.**
+        - Caso queira remover um curso ou certificação, basta clicar no botão ``Remover``.
         ![Tela de cursos e certificações](../imagens/Cadastro-curriculo/cursos-certificacoes.png)
 
     - **Idiomas**
@@ -95,7 +111,7 @@ Cadastrar currículo para poder se candidatar às vagas.
             ![Tela de nível idioma](../imagens/Cadastro-curriculo/nivel_fluencia.png)
         - **Caso queira adicionar mais de um idioma, clique em `+ Adicionar mais idiomas` e preencha as informações.**
         - **Após preencher todos os campos, clicar em `Salvar Idiomas` para salvar as informações.** 
-        ![Tela de curriculo](../imagens/Cadastro-curriculo/Idiomas.png)    
+        ![Tela de idiomas](../imagens/Cadastro-curriculo/Idiomas.png)    
     
     - **Anexar Currículo**
         - Caso deseje anexar o seu currículo, basta clicar em **`Escolher arquivo`**, selecionar o arquivo e **`Enviar o currículo`**.
@@ -103,6 +119,11 @@ Cadastrar currículo para poder se candidatar às vagas.
         - O arquivo deve o tamanho **máximo de 5MB**
         - Após o envio, o currículo ficará disponível no sistema para visualização pelas empresas.    
         -  ![Tela de anexar curriculo](../imagens/Cadastro-curriculo/anexar-curriculo.png) 
+        -  Para alterar o arquivo do currículo, basta clicar em **`Trocar arquivo`** e importar o arquivo novo.
+        -  Para remover o currículo anexado, basta clicar no ícone de lixeira no canto direito.
+        -  Para visualizar o currículo anexado, basta clicar em ``Visualizar`` no menu direito.
+        -  Para trocar o tipo de currículo anexado, basta clicar em **`Trocar tipo de currículo`** e selecionar o tipo desejado (ex.: currículo completo, resumo profissional, etc.).
+        -  ![Tela de curriculo](../imagens/Cadastro-curriculo/Substituicao_curriculo.png) 
 
 ---
 
@@ -113,7 +134,7 @@ Cadastrar currículo para poder se candidatar às vagas.
 
 ??? "**Erro ao salvar currículo**"
     - Confirme se todos os campos obrigatórios (*) foram preenchidos.
-    - Se estiver anexando arquivos, verifique se o formato e o tamanho são permitidos (ex.: PDF até 5MB).
+    - Se estiver anexando arquivos, verifique se o formato e o tamanho são permitidos (ex.: PDF até 15MB).
 
 ??? "**Currículo não aparece atualizado**"
     - Tente atualizar a página (CTRL + F5).
