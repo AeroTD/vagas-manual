@@ -18,8 +18,8 @@ Ensinar como se candidatar em uma vaga.
 
 ### <i data-lucide="notebook-pen" class="icon-lg"></i> Passo a passo
 
-1. **Abrir o Dashboard de Candidato**
-    - Clique em [Meu Dashboard](https://redeaviacao.com.br/dashboard/usu%C3%A1rio)**
+1. **Abrir Buscar Vagas**
+    - Clique em [Buscar Vagas](https://www.redeaviacao.com.br/home/vagas)
 
 2. **Candidatar a uma vaga em específico**
     - Selecionar a vaga.
@@ -29,7 +29,12 @@ Ensinar como se candidatar em uma vaga.
     - Caso tenha sido indicado por alguém que trabalha na empresa na qual está se candidatando, selecione a opção e informe o nome completo do colaborador e setor (caso seja solicitado). 
     ![Tela de filtros de vaga](../imagens/Candidatar-vagas/candidatura1.png)
 
-3. **Acompanhar Candidatura**
+3. **Confirmar Currículo**    
+    - Para confirmar o seu currículo, clique em **`Confirmar`**.
+    - Para atualizar o currículo, clique em **`Atualizar currículo`**.
+    ![Tela de confirmar currículo](../imagens/Candidatar-vagas/Confirmar_curriculo.png)
+
+1. **Acompanhar Candidatura**
     - Clique em **`Meu dashboard`** no menu suspenso à esquerda.
     - Selecionar a caixa [Minhas candidaturas](https://redeaviacao.com.br/dashboard/usu%C3%A1rio/minhas-candidaturas)
     ![Tela de minhas candidaturas](../imagens/Candidatar-vagas/minhas-candidaturas.png)
