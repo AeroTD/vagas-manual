@@ -10,7 +10,7 @@ Editar informações do perfil, como **Dados pessoais**, **Alterar senha**, **Al
 
 - Ter uma **conta criada** no sistema como **recrutador** (via cadastro ou convite de empresa).
 - Estar logado com **perfil de empresa / recrutador**.
-- Acesse a página de [Meu perfil](https://www.https://redeaviacao.com.br/perfil)
+- Acesse a página de [Meu perfil](https://redeaviacao.com.br/perfil)
 
 ---
 
