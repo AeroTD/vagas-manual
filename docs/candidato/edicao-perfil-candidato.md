@@ -10,7 +10,7 @@ Editar informações do perfil, como **Dados pessoais**, **Alterar senha**, e **
 
 - Ter uma **conta criada** no sistema como conta pessoal.
 - Estar logado com **perfil pessoal**.
-- Acesse a página de [Meu perfil](https://www.https://redeaviacao.com.br/perfil)
+- Acesse a página de [Meu perfil](https://redeaviacao.com.br/perfil)
 
 ---
 
