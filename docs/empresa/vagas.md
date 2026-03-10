@@ -25,11 +25,13 @@ Gerenciar as vagas para buscar novos colaboradores.
 
 2. Criar em **Nova Vaga**
     - Clique em **`Criar nova vaga`**. 
-    - Selecionar um template de vaga pré-definido. Caso a vaga não se encaixe em nenhuma das opções, clique em **`Outros`**.
-    - Após definir o template, clique em **`Criar vaga`** para avançar para os detalhes da vaga.
     ![Tela de criação de vaga](../imagens/Vagas/criar_vaga.png)
+    - Selecionar um template de vaga pré-definido. Caso a vaga não se encaixe em nenhuma das opções, clique em **`Outros`**.
+    ![Tela de seleção de template](../imagens/Vagas/escolha_tipo_vaga.png)
+    - Após definir o template, clique em **`Criar vaga`** para avançar para os detalhes da vaga.
+    
  
-3. **Detalhes da vaga**
+1. **Detalhes da vaga**
     - Informe o **Título da vaga** (nome que será divulgado) 
     - Informe o **Código da vaga** (ex.: PIL-2025-001, conforme padrão da empresa)
     - Informe o **Cargo**
@@ -39,17 +41,17 @@ Gerenciar as vagas para buscar novos colaboradores.
     - Marque se a vaga também será destinada a PCDs
     ![Tela de detalhes da vaga](../imagens/Vagas/detalhes_da_vaga.png)
 
-4. **Descrição da vaga**
+2. **Descrição da vaga**
     - Insira a descrição completa da vaga, incluindo benefícios e informações relevantes para atrair candidatos
     - Responsabilidades do profissional que ocupará a vaga
     - Requisitos necessários, como formação acadêmica, cursos, certificações e experiências desejadas
     ![Tela de descrição da vaga](../imagens/Vagas/descricao_da_vaga.png)
 
-5. **Localização da vaga**
+3. **Localização da vaga**
     - Informe **CEP**, **Rua**, **Número**, **Cidade** e **Estado**
     - ![Tela de localizaçãop da vaga](../imagens/Vagas/localizacao_da_vaga.png)
 
-6. **Dados internos da vaga**
+4. **Dados internos da vaga**
     - Informe a quantidade de vagas (especificar o números de vagas para aquele cargo)
     - Informe o salário fixo (caso haja um salário fixo para vaga)
     - Informe a faixa salarial (caso haja)
@@ -57,19 +59,19 @@ Gerenciar as vagas para buscar novos colaboradores.
     - Informe os dias da semana (informar as escalas de trabalho)
     ![Tela de dados interno da vaga](../imagens/Vagas/dados_internos_vaga.png)
 
-7. **Definição de etapas**
+5. **Definição de etapas**
     - Configure as etapas do processo seletivo (ex.: Inscrição, Triagem, Teste, Entrevista Técnica, Entrevista Comportamental, Resultado)  
     - Crie etapas personalizadas conforme a necessidade da empresa
     ![Tela de definição de etapas](../imagens/Vagas/definicao_de_etapas.png)
 
-8. **Perguntas da vaga**
+6. **Perguntas da vaga**
     - Defina o **tipo da pergunta** (múltipla escolha, dissertativa, sim/não)
     - Escreva um **enunciado claro e objetivo**  
     - Indique se a pergunta é **obrigatória** ou **opcional**  
     - Clique em **`Salvar Pergunta`** para registrar; todas as perguntas cadastradas ficarão listadas para consulta, edição ou remoção 
     ![Tela de perguntas da vaga](../imagens/Vagas/perguntas_da_vaga.png)
 
-9.  **Requisitos da vaga** 
+7.  **Requisitos da vaga** 
     - Escolha se o candidato deve atender a **todos os grupos** de requisitos (E) ou a **qualquer grupo** (OU)
     - No Conjunto de Requisitos, selecione:
         - **Campo:** a informação do candidato que será avaliada (ex.: formação, experiência, idioma)
@@ -80,7 +82,7 @@ Gerenciar as vagas para buscar novos colaboradores.
     - Após configurar, clique em **`Salvar Requisitos`**.
     ![Tela de requisitos da vaga](../imagens/Vagas/requisitos_da_vaga.png)
 
-10. **Recrutadores**
+8.  **Recrutadores**
     - Em **`Selecione o Recrutador`**, escolha o colaborador responsável pela avaliação dos candidatos  
     - Clique em **`Adicionar`** para incluí-lo na lista de responsáveis  
     - Repita para adicionar mais recrutadores; os selecionados ficarão em **Recrutadores Selecionados**  
