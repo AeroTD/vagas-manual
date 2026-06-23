@@ -10,7 +10,7 @@ Cadastrar currículo para poder se candidatar às vagas.
 
 - Ter uma **conta criada** no sistema (via cadastro ou convite de empresa).
 - Estar logado com um **perfil de candidato**.
-- Acesse a página [Currículo](https://redeaviacao.com.br/dashboard/curr%C3%ADculo)
+- Acesse a página [Currículo](https://redeaviacao.com.br/resume/other/edit)
 
 ---
 
@@ -124,7 +124,10 @@ Cadastrar currículo para poder se candidatar às vagas.
         -  Para visualizar o currículo anexado, basta clicar em ``Visualizar`` no menu direito.
         -  Para trocar o tipo de currículo anexado, basta clicar em **`Trocar tipo de currículo`** e selecionar o tipo desejado (ex.: currículo completo, resumo profissional, etc.).
         -  ![Tela de curriculo](../imagens/Cadastro-curriculo/Substituicao_curriculo.png) 
-
+     
+    - **Gerenciar Perfis**
+        - Caso deseje criar mais perfis de currículo (ex: currículo de Engenheiro e um currículo de Trabalhos em Aeroportos), basta clicar em **`Gerenciar perfis`** e selecionar o perfil desejado. 
+        ![Tela de Gerenciar perfis](../imagens/Cadastro-curriculo/Gerenciar_perfis.png)  
 ---
 
 ### <i data-lucide="wrench" class="icon-lg"></i> Solução de problemas
