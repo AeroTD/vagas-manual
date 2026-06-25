@@ -39,10 +39,10 @@ Ensinar como se candidatar em uma vaga.
     - Selecionar a caixa [Minhas candidaturas](https://redeaviacao.com.br/dashboard/usu%C3%A1rio/minhas-candidaturas)
     ![Tela de minhas candidaturas](../imagens/Candidatar-vagas/minhas-candidaturas.png)
     - Selecione a vaga que deseja verficar o seu progresso e clique em **`Ver andamento`** para ter mais detalhes
-    ![Tela de ver andamento](../imagens/Candidatar-vagas/ver-andamento.png)
-    - Caso deseje filtrar as vagas disponíveis, clique em **`Filtrar Vagas`** no botão à direita.
-    ![Tela de filtros de vaga](../imagens/Candidatar-vagas/filtrar-vagas.png)
-    - Caso tenha criado um filtro e queira remover o filtro para voltar ao padrão, clique no botão **`Limpar filtros aplicados`** no botão à esquerda do **`Filtrar vagas`** 
+    - É possível acompanhar os status das candidaturas no dashboard, como por exemplo: **`Em andamento`**, **`Com ação`**, **`Finalizado`**.
+    - Caso deseje filtrar as vagas que você se candidatou, basta pesquisar no campo de busca pelo `nome da vaga`, `código da vaga` ou `empresa`.
+    - Caso tenha criado um filtro e queira remover o filtro para voltar ao padrão, clique no botão **`Limpar filtros`** 
+    ![Tela de ver andamento](../imagens/Candidatar-vagas/Minhas%20candidaturas.png)
     
 
 ---
