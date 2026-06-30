@@ -21,23 +21,28 @@ Editar informações da página da empresa, incluindo dados de identidade, redes
 2. **Em ``Identidade pública``, preencha:**
     - **URL personalizada:** insira um identificador único para sua empresa (ex.: `redeaviacao.com.br/empresas/demonstracao`)
     - **Website:** endereço oficial da empresa (ex.: `https://www.exemplo.com`)
-    - **Descrição da empresa:** resumo claro e objetivo (máx. 1000 caracteres)
     ![Tela de identidade pública](../imagens/Editar-pagina-empresa/identidade-publica.png)
 
-3. **Em ``Redes sociais``, preencha os campos correspondentes:**
+3. **Em ``Sobre a empresa``, preencha:**
+    - **Descrição da empresa:** breve resumo sobre a empresa, seus valores e diferenciais
+    - *Não é necessário inserir o título “Sobre a empresa”. Ele já será exibido automaticamente na página pública.*
+    ![Tela de sobre a empresa](../imagens/Editar-pagina-empresa/Sobre_empresa.png)
+
+4. **Em ``Redes sociais``, preencha os campos correspondentes:**
     - **LinkedIn:** link do perfil da empresa
     - **Instagram:** link do perfil da empresa
     - **Facebook:** link do perfil da empresa
     ![Tela de redes sociais](../imagens/Editar-pagina-empresa/redes-sociais.png)
 
-4. **Em ``Branding``, adicione imagens:**
+5. **Em ``Identidade Visual``, adicione imagens:**
     - **Logo da empresa:** PNG/JPG/JPEG; fundo transparente recomendado; dimensões mínimas 100x100 px, máximas 3000x3000 px; máximo 1MB
     - **Banner da empresa:** PNG/JPG/JPEG; horizontal; dimensões mínimas 1200x300 px, máximas 6000x3000 px; máximo 10MB
+    - **Imagem para compartilhamento:** PNG/JPG/JPEG; quadrada; use uma imagem horizontal com pelo menos 1200x630px, fundo claro e logo centralizada com boas margens.
     ![Tela de branding](../imagens/Editar-pagina-empresa/branding.png)
 
-5. **Clique em `Salvar` para aplicar as alterações.**
+6. **Clique em `Salvar` para aplicar as alterações.**
 
-6. **Utilize a opção `Ver página pública` para visualizar como a página ficará para os candidatos.**
+7. **Utilize a opção `Ver página pública` para visualizar como a página ficará para os candidatos.**
     ![Tela de redes sociais](../imagens/Editar-pagina-empresa/salvar.png)
 
 ---
