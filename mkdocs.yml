@@ -44,6 +44,7 @@ nav:
   - Para Empresas:
       - Edição do Perfil de Recrutador: empresa/edicao-perfil-empresa.md
       - Vagas: empresa/vagas.md
+      # - Banco de Talentos: empresa/banco-de-talentos.md
       - Gestão do Processo Seletivo: empresa/gestao-processo-seletivo.md
       # - Criação de Vagas: empresa/criar-vaga.md
       # - Editar Vagas: empresa/editar-vagas.md
