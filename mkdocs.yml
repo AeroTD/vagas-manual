@@ -41,10 +41,11 @@ nav:
       - Candidatar-se a Vaga: candidato/candidatar-vagas.md
       - Edição de Perfil do Candidato: candidato/edicao-perfil-candidato.md
       - Chat de Mensagens: interacao/chat.md
+      - Banco de Talentos: candidato/banco-de-talentos-candidato.md
   - Para Empresas:
       - Edição do Perfil de Recrutador: empresa/edicao-perfil-empresa.md
       - Vagas: empresa/vagas.md
-      # - Banco de Talentos: empresa/banco-de-talentos.md
+      - Banco de Talentos: empresa/banco-de-talentos.md
       - Gestão do Processo Seletivo: empresa/gestao-processo-seletivo.md
       # - Criação de Vagas: empresa/criar-vaga.md
       # - Editar Vagas: empresa/editar-vagas.md
